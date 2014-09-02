@@ -35,18 +35,22 @@ while getopts ":f:h" opt; do
     esac
 done
 
-check() {
+check_file() {
     # takes playlist file as input argument
     echo $1
     for stream in `cat $1 | sed -e '/^#/d'`; do
-        curl -s -I -o /dev/null -w "[%{http_code}] $stream\n" $stream
+        check_stream $stream
     done
 }
 
+check_stream() {
+    curl -s -I -o /dev/null -w "[%{http_code}] $1\n" $1
+}
+
 if [[ -n "$file" ]]; then
-    check $file
+    check_file $file
 else
     for file in `find ../general -iname "*m3u8"` ; do
-        check $file
+        check_file $file
     done
 fi
