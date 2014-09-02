@@ -14,11 +14,39 @@
 # GNU General Public License at <http://www.gnu.org/licenses/> for
 # more details.
 # ---------------------------------------------------------------------------
-for file in `find ../general -iname "*m3u8"` 
-do
-    echo $file
-    for stream in `cat $file | sed -e '/^#/d'` 
-    do
+usage() { echo "Usage: $0 [-f <sting>]" 1>&2; exit 1; }
+
+while getopts ":f:h" opt; do
+    case $opt in
+        h)
+            usage
+            ;;
+        f)
+            file=${OPTARG}
+            ;;
+        \?)
+            echo "Invalid option: -$OPTARG" >&2
+            exit 1
+            ;;
+        :)
+            echo "Option -$OPTARG requires an argument." >&2
+            exit 1
+            ;;
+    esac
+done
+
+check() {
+    # takes playlist file as input argument
+    echo $1
+    for stream in `cat $1 | sed -e '/^#/d'`; do
         curl -s -I -o /dev/null -w "[%{http_code}] $stream\n" $stream
     done
-done
+}
+
+if [[ -n "$file" ]]; then
+    check $file
+else
+    for file in `find ../general -iname "*m3u8"` ; do
+        check $file
+    done
+fi
