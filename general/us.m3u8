@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,CNN International
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/cnnintl/cnnintl/cnnintl.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Bloomberg
+http://hls01-10.az.myvideo.az/hls-live/livepkgr/bloomberg/bloomberg/bloomberg.m3u8?mfamwuUL6IpOXDJ8WwxJ

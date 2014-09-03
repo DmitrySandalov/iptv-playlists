@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,iTV
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/ictimai/ictimai/ictimai.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Region TV
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/regiontv/regiontv/regiontv.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Cartoon Network
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/cartoon/cartoon/cartoon.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Space
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/space/space/space.m3u8?mfamwuUL6IpOXDJ8WwxJ

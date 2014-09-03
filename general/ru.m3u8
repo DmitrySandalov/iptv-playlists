@@ -1,0 +1,158 @@
+#EXTM3U
+#EXTINF:-1,Euronews
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/euronews/euronews/euronews.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,LifeNews
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:-1,LifeNews HD
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,Россия 24
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rus24
+
+#EXTINF:-1,Россия
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rus1air
+#EXTINF:-1,Россия HD
+http://188.254.86.130/streaming/russiahd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Россия 2
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport
+#EXTINF:-1,5 канал
+http://4BA9EBDB07C05883:@5.159.96.170:8000/5
+#EXTINF:-1,НТВ
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
+#EXTINF:-1,РЕН ТВ
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rentv
+#EXTINF:-1,ТВ3
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tv3
+#EXTINF:-1,ТВЦ
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tvcenter
+#EXTINF:-1,Звезда
+http://4BA9EBDB07C05883:@5.159.96.170:8000/zvezda
+#EXTINF:-1,Культура
+http://4BA9EBDB07C05883:@5.159.96.170:8000/kultura
+#EXTINF:-1,ТНТ
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tnt
+#EXTINF:-1,ТНТ
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tntair
+#EXTINF:-1,ТНТ Comedy
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/komeditv/komeditv/komeditv.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,СТС Прима
+http://4BA9EBDB07C05883:@5.159.96.170:8000/prima
+#EXTINF:-1,Перец
+http://4BA9EBDB07C05883:@5.159.96.170:8000/perez
+#EXTINF:-1,Перец
+http://4BA9EBDB07C05883:@5.159.96.170:8000/perezair
+#EXTINF:-1,ОТР
+http://4BA9EBDB07C05883:@5.159.96.170:8000/otr
+#EXTINF:-1,Енисей
+http://4BA9EBDB07C05883:@5.159.96.170:8000/enisei
+#EXTINF:-1,Афон ТВ
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ortv
+#EXTINF:-1,ТВК
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tvk
+
+#EXTINF:-1,National Geographic
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/natgeo/natgeo/natgeo.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,National Geographic HD
+http://85.112.114.62/streaming/natgeohd/16/fullhd/playlist.m3u8
+#EXTINF:-1,National Geographic HD
+rtsp://178.218.212.102:1935/live/Stream3
+#EXTINF:-1,National Geographic Wild
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/natgeowild/natgeowild/natgeowild.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Nat Geo Wild HD
+http://85.112.114.62/streaming/natgeowildhd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/animalplanet/animalplanet/animalplanet.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Animal Planet HD
+http://85.112.114.62/streaming/aphd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/discovery/discovery/discovery.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Discovery Channel HD
+http://85.112.114.62/streaming/discovery_hd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Discovery Science
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/discoverysci/discoverysci/discoverysci.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Discovery World
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/discoveryworld/discoveryworld/discoveryworld.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Viasat History
+http://hls01-11.az.myvideo.az/hls-live/livepkgr/viasathist/viasathist/viasathist.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Viasat Explorer
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/viasatexp/viasatexp/viasatexp.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Мир
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mir
+#EXTINF:-1,Мир
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mir24
+#EXTINF:-1,Океан ТВ
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ocean
+#EXTINF:-1,РЖД
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rzd
+
+#EXTINF:-1,Кинопоказ-1 HD
+http://188.254.86.130/streaming/kinopokaz1_hd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Кинопоказ-2 HD
+http://188.254.86.130/streaming/kinopokaz_2_hd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Sony Entertainment Television HD
+http://188.254.86.130/streaming/set_hd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Fox HD
+http://188.254.86.130/streaming/fox_hd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Fox Life HD
+http://85.112.114.62/streaming/foxlife_hd/16/fullhd/playlist.m3u8
+#EXTINF:-1,MGM HD
+http://188.254.86.130/streaming/mgm_hd/16/fullhd/playlist.m3u8
+#EXTINF:-1,myZen.tv HD
+http://188.254.86.130/streaming/myzenhd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Outdoor channel HD
+http://188.254.86.130/streaming/outchhd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Наше новое кино
+http://iptv2.zargacum.net/iptv/F94KG62C6C/517/index.m3u8
+#EXTINF:-1,Наше кино
+http://iptv2.zargacum.net/iptv/F94KG62C6C/126/index.m3u8
+#EXTINF:-1,Киносоюз
+http://iptv2.zargacum.net/iptv/F94KG62C6C/509/index.m3u8
+#EXTINF:-1,Премьера
+http://iptv2.zargacum.net/iptv/F94KG62C6C/125/index.m3u8
+#EXTINF:-1,Кинолюкс
+http://iptv2.zargacum.net/iptv/F94KG62C6C/521/index.m3u8
+#EXTINF:-1,Кинохит
+http://iptv2.zargacum.net/iptv/F94KG62C6C/516/index.m3u8
+#EXTINF:-1,Кино Плюс
+http://194.143.148.19:7088/udp/233.187.37.106:1234
+
+#EXTINF:-1,Карусель
+http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
+#EXTINF:-1,Карусель
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/karusel/karusel/karusel.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Disney
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/disney/disney/disney.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Nickelodeon
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/nickelodeon/nickelodeon/nickelodeon.m3u8?mfamwuUL6IpOXDJ8WwxJ
+
+#EXTINF:-1,VH-1
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/vh1/vh1/vh1.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,MTV
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mtv
+#EXTINF:-1,MTV
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
+
+#EXTINF:-1,Eurosport
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Eurosport 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Спорт Плюс
+http://iptv2.zargacum.net/iptv/F94KG62C6C/123/index.m3u8
+#EXTINF:-1,СпортХит
+http://iptv2.zargacum.net/iptv/F94KG62C6C/522/index.m3u8
+#EXTINF:-1,Спорт Союз
+http://iptv2.zargacum.net/iptv/F94KG62C6C/532/index.m3u8
+#EXTINF:-1,КХЛ HD
+http://188.254.86.130/streaming/khlhd/16/fullhd/playlist.m3u8
+#EXTINF:-1,Футбол НТВ+ 
+http://iptv2.zargacum.net/iptv/F94KG62C6C/124/index.m3u8
+#EXTINF:-1,Футбол 2 
+http://iptv2.zargacum.net/iptv/F94KG62C6C/530/index.m3u8
+#EXTINF:-1,Теннис
+http://iptv2.zargacum.net/iptv/F94KG62C6C/528/index.m3u8
+#EXTINF:-1,Баскетбол
+http://iptv2.zargacum.net/iptv/F94KG62C6C/529/index.m3u8
+
+#EXTINF:-1,Домашний магазин
+http://4BA9EBDB07C05883:@5.159.96.170:8000/magazin
+#EXTINF:-1,TV Sale
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tvsale
