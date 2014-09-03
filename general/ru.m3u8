@@ -9,7 +9,11 @@ http://tv.life.ru/lifetv/360p/index.m3u8
 http://tv.life.ru/lifetv/720p/index.m3u8
 #EXTINF:-1,Россия 24
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rus24
+#EXTINF:-1,Россия 24
+http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&cast_id=21
 
+#EXTINF:-1,1 канал
+http://85.112.114.62/streaming/1kanal/16/tvrec/playlist.m3u8
 #EXTINF:-1,Россия
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rus1air
 #EXTINF:-1,Россия HD
@@ -40,12 +44,18 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/tnt
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tntair
 #EXTINF:-1,ТНТ Comedy
 http://hls01-08.az.myvideo.az/hls-live/livepkgr/komeditv/komeditv/komeditv.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,СТС мир
+http://85.112.114.62/streaming/sts/16/tvrec/playlist.m3u8
 #EXTINF:-1,СТС Прима
 http://4BA9EBDB07C05883:@5.159.96.170:8000/prima
 #EXTINF:-1,Перец
 http://4BA9EBDB07C05883:@5.159.96.170:8000/perez
 #EXTINF:-1,Перец
 http://4BA9EBDB07C05883:@5.159.96.170:8000/perezair
+#EXTINF:-1,Пятница
+http://188.254.86.130/streaming/friday/16/tvrec/playlist.m3u8
+#EXTINF:-1,Москва 24
+http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&cast_id=1661
 #EXTINF:-1,ОТР
 http://4BA9EBDB07C05883:@5.159.96.170:8000/otr
 #EXTINF:-1,Енисей
@@ -95,6 +105,8 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/mir
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mir24
 #EXTINF:-1,Океан ТВ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/ocean
+#EXTINF:-1,Мать и дитя
+http://85.112.114.62/streaming/motherchi/16/tvrec/playlist.m3u8
 #EXTINF:-1,РЖД
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rzd
 
@@ -139,6 +151,8 @@ http://hls01-09.az.myvideo.az/hls-live/livepkgr/karusel/karusel/karusel.m3u8?mfa
 http://hls01-05.az.myvideo.az/hls-live/livepkgr/disney/disney/disney.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Nickelodeon
 http://hls01-05.az.myvideo.az/hls-live/livepkgr/nickelodeon/nickelodeon/nickelodeon.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Детский
+http://188.254.86.130/streaming/forkids/16/tvrec/playlist.m3u8
 
 #EXTINF:-1,МУЗ ТВ
 http://5.45.76.46:80/iptv/F94KG62C6C/116/index.m3u8
@@ -150,6 +164,10 @@ http://hls01-03.az.myvideo.az/hls-live/livepkgr/vh1/vh1/vh1.m3u8?mfamwuUL6IpOXDJ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mtv
 #EXTINF:-1,MTV
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
+#EXTINF:-1,A-One
+http://85.112.114.62/streaming/aone/16/tvrec/playlist.m3u8
+#EXTINF:-1,Music Box
+http://85.112.114.62/streaming/musboxtv/16/tvrec/playlist.m3u8
 
 #EXTINF:-1,Eurosport
 http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?mfamwuUL6IpOXDJ8WwxJ
