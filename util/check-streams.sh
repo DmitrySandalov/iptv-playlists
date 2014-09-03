@@ -59,7 +59,7 @@ check_stream() {
     resp_code=$(curl -s -I -o /dev/null -w "%{http_code}" $1)
     if [ $resp_code = '200' ]; then
         echo_green "[$resp_code] $1"
-    elif [ $resp_code = '302' ]; then
+    elif [ $resp_code = '301' ] || [ $resp_code = '302' ]; then
         echo_yellow "[$resp_code] $(check_stream_302 $1)"
         echo_yellow {$1}
     else
