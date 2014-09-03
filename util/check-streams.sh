@@ -56,7 +56,7 @@ check_file() {
 }
 
 check_stream() {
-    resp_code=$(curl -s -I -o /dev/null -w "%{http_code}" $1)
+    resp_code=$(curl -m 5 -s -I -o /dev/null -w "%{http_code}" $1)
     if [ $resp_code = '200' ]; then
         echo_green "[$resp_code] $1"
     elif [ $resp_code = '301' ] || [ $resp_code = '302' ]; then
@@ -68,7 +68,7 @@ check_stream() {
 }
 
 check_stream_302() {
-    curl -s -I -L -o /dev/null -w "%{url_effective}\n" $1
+    curl -m 5 -s -I -L -o /dev/null -w "%{url_effective}\n" $1
 }
 
 if [[ -n "$file" ]]; then
