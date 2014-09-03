@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1,EuroNews
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/euronews/euronews/euronews.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,РБК
+http://188.254.86.130/streaming/rbk/16/tvrec/playlist.m3u8
 #EXTINF:-1,Lifenews
 http://tv.life.ru/lifetv/360p/index.m3u8
 #EXTINF:-1,Lifenews
 http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,Russia Today
+http://85.112.114.62/streaming/russiatoday/16/tvrec/playlist.m3u8
 #EXTINF:-1,Россия 24
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rus24
 #EXTINF:-1,Россия 24
@@ -85,6 +89,8 @@ http://hls01-06.az.myvideo.az/hls-live/livepkgr/discoveryworld/discoveryworld/di
 http://hls01-11.az.myvideo.az/hls-live/livepkgr/viasathist/viasathist/viasathist.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Viasat Explorer
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/viasatexp/viasatexp/viasatexp.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,24 Техно
+http://188.254.86.130/streaming/24techno/16/tvrec/playlist.m3u8
 #EXTINF:-1,МИР
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mir
 #EXTINF:-1,МИР 24
@@ -93,6 +99,16 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/mir24
 http://4BA9EBDB07C05883:@5.159.96.170:8000/ocean
 #EXTINF:-1,Мать и Дитя
 http://85.112.114.62/streaming/motherchi/16/tvrec/playlist.m3u8
+#EXTINF:-1,49 канал
+http://85.112.114.62/streaming/49kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1,НСТ
+http://85.112.114.62/streaming/nstv/16/tvrec/playlist.m3u8
+#EXTINF:-1,TV XXI (TV21)
+http://85.112.114.62/streaming/tv21/16/tvrec/playlist.m3u8
+#EXTINF:-1,ОТС
+http://85.112.114.62/streaming/ots/16/tvrec/playlist.m3u8
+#EXTINF:-1,Живи
+http://85.112.114.62/streaming/jv/16/tvrec/playlist.m3u8
 #EXTINF:-1,РЖД
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rzd
 
@@ -137,6 +153,8 @@ http://hls01-05.az.myvideo.az/hls-live/livepkgr/disney/disney/disney.m3u8?mfamwu
 http://hls01-05.az.myvideo.az/hls-live/livepkgr/nickelodeon/nickelodeon/nickelodeon.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Детский канал
 http://188.254.86.130/streaming/forkids/16/tvrec/playlist.m3u8
+#EXTINF:-1,Канал 2x2
+http://188.254.86.130/streaming/2x2tv/16/tvrec/playlist.m3u8
 
 #EXTINF:-1,VH1 European
 http://hls01-03.az.myvideo.az/hls-live/livepkgr/vh1/vh1/vh1.m3u8?mfamwuUL6IpOXDJ8WwxJ
@@ -170,6 +188,8 @@ http://iptv2.zargacum.net/iptv/F94KG62C6C/528/index.m3u8
 #EXTINF:-1,НТВ-ПЛЮС Баскетбол
 http://iptv2.zargacum.net/iptv/F94KG62C6C/529/index.m3u8
 
+#EXTINF:-1,Fashion TV
+http://85.112.114.62/streaming/fashion/16/tvrec/playlist.m3u8
 #EXTINF:-1,Домашний магазин
 http://4BA9EBDB07C05883:@5.159.96.170:8000/magazin
 #EXTINF:-1,TV Sale
