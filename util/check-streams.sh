@@ -37,14 +37,24 @@ done
 
 check_file() {
     # takes playlist file as input argument
-    echo $1
+    echo Checking $1
     for stream in `cat $1 | sed -e '/^#/d'`; do
         check_stream $stream
     done
 }
 
 check_stream() {
-    curl -s -I -o /dev/null -w "[%{http_code}] $1\n" $1
+    status=$(curl -s -I -L -o /dev/null -w "%{http_code}" $1)
+    if [ $status = '200' ]; then
+        echo [$status] $1
+    else
+        check_stream_302 $1
+        echo {$1}
+    fi
+}
+
+check_stream_302() {
+    curl -s -I -L -o /dev/null -w "[%{http_code}] %{url_effective}\n" $1
 }
 
 if [[ -n "$file" ]]; then
