@@ -56,14 +56,14 @@ check_file() {
 }
 
 check_stream() {
-    status=$(curl -s -I -o /dev/null -w "%{http_code}" $1)
-    if [ $status = '200' ]; then
-        echo_green "[$status] $1"
-    elif [ $status = '302' ]; then
-        echo_yellow "[$status] $(check_stream_302 $1)"
+    resp_code=$(curl -s -I -o /dev/null -w "%{http_code}" $1)
+    if [ $resp_code = '200' ]; then
+        echo_green "[$resp_code] $1"
+    elif [ $resp_code = '302' ]; then
+        echo_yellow "[$resp_code] $(check_stream_302 $1)"
         echo_yellow {$1}
     else
-        echo_red "[$status] $1"
+        echo_red "[$resp_code] $1"
     fi
 }
 
