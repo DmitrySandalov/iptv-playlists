@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Telemadrid
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,Aragon TV
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+#EXTINF:-1,El Correo TV
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:-1,TV3CAT
+http://tv3catnogeo-live.hls.adaptive.level3.net/tv3/tv3cat/tv3cat/tv3cat.m3u8

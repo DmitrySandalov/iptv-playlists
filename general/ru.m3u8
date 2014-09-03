@@ -166,6 +166,8 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
 http://85.112.114.62/streaming/aone/16/tvrec/playlist.m3u8
 #EXTINF:-1,Music Box RU
 http://85.112.114.62/streaming/musboxtv/16/tvrec/playlist.m3u8
+#EXTINF:-1,1HD
+http://109.239.142.62:1935/live/hlsstream/vcx73.m3u8
 
 #EXTINF:-1,Eurosport
 http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?mfamwuUL6IpOXDJ8WwxJ
