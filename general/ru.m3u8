@@ -5,7 +5,7 @@ http://hls01-06.az.myvideo.az/hls-live/livepkgr/euronews/euronews/euronews.m3u8?
 http://5.45.76.46:80/iptv/F94KG62C6C/106/index.m3u8
 #EXTINF:-1,Lifenews
 http://tv.life.ru/lifetv/360p/index.m3u8
-#EXTINF:-1,Lifenews HD
+#EXTINF:-1,Lifenews
 http://tv.life.ru/lifetv/720p/index.m3u8
 #EXTINF:-1,Россия 24
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rus24
@@ -20,7 +20,7 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/rus1air
 http://188.254.86.130/streaming/russiahd/16/fullhd/playlist.m3u8
 #EXTINF:-1,Россия 2 (Спорт)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/sport
-#EXTINF:-1,Пятый канал
+#EXTINF:-1,Пятый Канал
 http://4BA9EBDB07C05883:@5.159.96.170:8000/5
 #EXTINF:-1,НТВ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
@@ -73,7 +73,7 @@ http://hls01-01.az.myvideo.az/hls-live/livepkgr/natgeo/natgeo/natgeo.m3u8?mfamwu
 http://85.112.114.62/streaming/natgeohd/16/fullhd/playlist.m3u8
 #EXTINF:-1,National Geographic HD
 rtsp://178.218.212.102:1935/live/Stream3
-#EXTINF:-1,National Geographic Wild
+#EXTINF:-1,Nat Geo Wild HD
 http://hls01-03.az.myvideo.az/hls-live/livepkgr/natgeowild/natgeowild/natgeowild.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Nat Geo Wild HD
 http://85.112.114.62/streaming/natgeowildhd/16/fullhd/playlist.m3u8
@@ -95,17 +95,17 @@ http://hls01-11.az.myvideo.az/hls-live/livepkgr/viasathist/viasathist/viasathist
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/viasatexp/viasatexp/viasatexp.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,История
 http://5.45.76.46:80/iptv/F94KG62C6C/111/index.m3u8
-#EXTINF:-1,Моя планета
+#EXTINF:-1,Моя Планета
 http://5.45.76.46:80/iptv/F94KG62C6C/117/index.m3u8
 #EXTINF:-1,Наука 2.0
 http://5.45.76.46:80/iptv/F94KG62C6C/118/index.m3u8
-#EXTINF:-1,Мир
+#EXTINF:-1,МИР
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mir
-#EXTINF:-1,Мир
+#EXTINF:-1,МИР 24
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mir24
-#EXTINF:-1,Океан ТВ
+#EXTINF:-1,Ocean-TV
 http://4BA9EBDB07C05883:@5.159.96.170:8000/ocean
-#EXTINF:-1,Мать и дитя
+#EXTINF:-1,Мать и Дитя
 http://85.112.114.62/streaming/motherchi/16/tvrec/playlist.m3u8
 #EXTINF:-1,РЖД
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rzd
