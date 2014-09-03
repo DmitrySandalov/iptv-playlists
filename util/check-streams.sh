@@ -50,13 +50,13 @@ echo_yellow() {
 check_file() {
     # takes playlist file as input argument
     echo Checking $1
-    for stream in `cat $1 | sed -e '/^#/d'`; do
+    for stream in `cat $1 | sed '/^\s*$/d' | sed -e '/^#/d' | sed -e 's///g'`; do
         check_stream $stream
     done
 }
 
 check_stream() {
-    status=$(curl -s -I -L -o /dev/null -w "%{http_code}" $1)
+    status=$(curl -s -I -o /dev/null -w "%{http_code}" $1)
     if [ $status = '200' ]; then
         echo_green "[$status] $1"
     elif [ $status = '302' ]; then
