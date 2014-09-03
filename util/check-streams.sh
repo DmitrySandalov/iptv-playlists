@@ -60,7 +60,7 @@ check_stream() {
     if [ $status = '200' ]; then
         echo_green "[$status] $1"
     elif [ $status = '302' ]; then
-        echo_yellow "$(check_stream_302 $1)"
+        echo_yellow "[$status] $(check_stream_302 $1)"
         echo_yellow {$1}
     else
         echo_red "[$status] $1"
@@ -68,7 +68,7 @@ check_stream() {
 }
 
 check_stream_302() {
-    curl -s -I -L -o /dev/null -w "[%{http_code}] %{url_effective}\n" $1
+    curl -s -I -L -o /dev/null -w "%{url_effective}\n" $1
 }
 
 if [[ -n "$file" ]]; then
