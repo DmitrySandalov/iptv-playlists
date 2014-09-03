@@ -35,6 +35,18 @@ while getopts ":f:h" opt; do
     esac
 done
 
+echo_green() {
+    echo -e '\e[1;32m'${1}'\e[0m'
+}
+
+echo_red() {
+    echo -e '\e[1;31m'${1}'\e[0m'
+}
+
+echo_yellow() {
+    echo -e '\e[1;33m'${1}'\e[0m'
+}
+
 check_file() {
     # takes playlist file as input argument
     echo Checking $1
@@ -46,10 +58,12 @@ check_file() {
 check_stream() {
     status=$(curl -s -I -L -o /dev/null -w "%{http_code}" $1)
     if [ $status = '200' ]; then
-        echo [$status] $1
+        echo_green "[$status] $1"
+    elif [ $status = '302' ]; then
+        echo_yellow "$(check_stream_302 $1)"
+        echo_yellow {$1}
     else
-        check_stream_302 $1
-        echo {$1}
+        echo_red "[$status] $1"
     fi
 }
 
