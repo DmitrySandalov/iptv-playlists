@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,EuroNews
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/euronews/euronews/euronews.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,РБК
-http://5.45.76.46:80/iptv/F94KG62C6C/106/index.m3u8
 #EXTINF:-1,Lifenews
 http://tv.life.ru/lifetv/360p/index.m3u8
 #EXTINF:-1,Lifenews
@@ -26,8 +24,6 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/5
 http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
 #EXTINF:-1,РЕН ТВ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rentv
-#EXTINF:-1,Домашний
-http://5.45.76.46:80/iptv/F94KG62C6C/514/index.m3u8
 #EXTINF:-1,ТВ-3
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tv3
 #EXTINF:-1,ТВЦ
@@ -36,8 +32,6 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/tvcenter
 http://4BA9EBDB07C05883:@5.159.96.170:8000/zvezda
 #EXTINF:-1,Россия Культура
 http://4BA9EBDB07C05883:@5.159.96.170:8000/kultura
-#EXTINF:-1,СТС
-http://5.45.76.46:80/iptv/F94KG62C6C/506/index.m3u8
 #EXTINF:-1,СТС
 http://85.112.114.62/streaming/sts/16/tvrec/playlist.m3u8
 #EXTINF:-1,СТС
@@ -65,8 +59,6 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/ortv
 #EXTINF:-1,ТВК
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tvk
 
-#EXTINF:-1,24 ДОК
-http://5.45.76.46:80/iptv/F94KG62C6C/512/index.m3u8
 #EXTINF:-1,National Geographic
 http://hls01-01.az.myvideo.az/hls-live/livepkgr/natgeo/natgeo/natgeo.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,National Geographic HD
@@ -93,12 +85,6 @@ http://hls01-06.az.myvideo.az/hls-live/livepkgr/discoveryworld/discoveryworld/di
 http://hls01-11.az.myvideo.az/hls-live/livepkgr/viasathist/viasathist/viasathist.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Viasat Explorer
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/viasatexp/viasatexp/viasatexp.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,История
-http://5.45.76.46:80/iptv/F94KG62C6C/111/index.m3u8
-#EXTINF:-1,Моя Планета
-http://5.45.76.46:80/iptv/F94KG62C6C/117/index.m3u8
-#EXTINF:-1,Наука 2.0
-http://5.45.76.46:80/iptv/F94KG62C6C/118/index.m3u8
 #EXTINF:-1,МИР
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mir
 #EXTINF:-1,МИР 24
@@ -134,8 +120,6 @@ http://iptv2.zargacum.net/iptv/F94KG62C6C/126/index.m3u8
 http://iptv2.zargacum.net/iptv/F94KG62C6C/509/index.m3u8
 #EXTINF:-1,Премьера
 http://iptv2.zargacum.net/iptv/F94KG62C6C/125/index.m3u8
-#EXTINF:-1,Премьера
-http://5.45.76.46:80/iptv/F94KG62C6C/125/index.m3u8
 #EXTINF:-1,Кинолюкс
 http://iptv2.zargacum.net/iptv/F94KG62C6C/521/index.m3u8
 #EXTINF:-1,Кинохит
@@ -154,10 +138,6 @@ http://hls01-05.az.myvideo.az/hls-live/livepkgr/nickelodeon/nickelodeon/nickelod
 #EXTINF:-1,Детский канал
 http://188.254.86.130/streaming/forkids/16/tvrec/playlist.m3u8
 
-#EXTINF:-1,МУЗ-ТВ
-http://5.45.76.46:80/iptv/F94KG62C6C/116/index.m3u8
-#EXTINF:-1,RU.TV
-http://5.45.76.46:80/iptv/F94KG62C6C/107/index.m3u8
 #EXTINF:-1,VH1 European
 http://hls01-03.az.myvideo.az/hls-live/livepkgr/vh1/vh1/vh1.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,MTV European
