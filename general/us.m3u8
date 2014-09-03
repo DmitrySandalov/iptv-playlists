@@ -3,3 +3,6 @@
 http://hls01-07.az.myvideo.az/hls-live/livepkgr/cnnintl/cnnintl/cnnintl.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Bloomberg
 http://hls01-10.az.myvideo.az/hls-live/livepkgr/bloomberg/bloomberg/bloomberg.m3u8?mfamwuUL6IpOXDJ8WwxJ
+
+#EXTINF:-1,Playboy
+http://5.45.76.46:80/iptv/F94KG62C6C/527/index.m3u8
