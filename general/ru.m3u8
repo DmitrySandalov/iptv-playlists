@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1,Euronews
+#EXTINF:-1,EuroNews
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/euronews/euronews/euronews.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,РБК
 http://5.45.76.46:80/iptv/F94KG62C6C/106/index.m3u8
-#EXTINF:-1,LifeNews
+#EXTINF:-1,Lifenews
 http://tv.life.ru/lifetv/360p/index.m3u8
-#EXTINF:-1,LifeNews HD
+#EXTINF:-1,Lifenews HD
 http://tv.life.ru/lifetv/720p/index.m3u8
 #EXTINF:-1,Россия 24
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rus24
 #EXTINF:-1,Россия 24
 http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&cast_id=21
 
-#EXTINF:-1,1 канал
+#EXTINF:-1,Первый канал
 http://85.112.114.62/streaming/1kanal/16/tvrec/playlist.m3u8
-#EXTINF:-1,Россия
+#EXTINF:-1,Россия 1
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rus1air
-#EXTINF:-1,Россия HD
+#EXTINF:-1,Россия 1 HD
 http://188.254.86.130/streaming/russiahd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Россия 2
+#EXTINF:-1,Россия 2 (Спорт)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/sport
-#EXTINF:-1,5 канал
+#EXTINF:-1,Пятый канал
 http://4BA9EBDB07C05883:@5.159.96.170:8000/5
 #EXTINF:-1,НТВ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
@@ -28,44 +28,44 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rentv
 #EXTINF:-1,Домашний
 http://5.45.76.46:80/iptv/F94KG62C6C/514/index.m3u8
-#EXTINF:-1,ТВ3
+#EXTINF:-1,ТВ-3
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tv3
 #EXTINF:-1,ТВЦ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tvcenter
 #EXTINF:-1,Звезда
 http://4BA9EBDB07C05883:@5.159.96.170:8000/zvezda
-#EXTINF:-1,Культура
+#EXTINF:-1,Россия Культура
 http://4BA9EBDB07C05883:@5.159.96.170:8000/kultura
 #EXTINF:-1,СТС
 http://5.45.76.46:80/iptv/F94KG62C6C/506/index.m3u8
+#EXTINF:-1,СТС
+http://85.112.114.62/streaming/sts/16/tvrec/playlist.m3u8
+#EXTINF:-1,СТС
+http://4BA9EBDB07C05883:@5.159.96.170:8000/prima
 #EXTINF:-1,ТНТ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tnt
 #EXTINF:-1,ТНТ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tntair
 #EXTINF:-1,ТНТ Comedy
 http://hls01-08.az.myvideo.az/hls-live/livepkgr/komeditv/komeditv/komeditv.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,СТС мир
-http://85.112.114.62/streaming/sts/16/tvrec/playlist.m3u8
-#EXTINF:-1,СТС Прима
-http://4BA9EBDB07C05883:@5.159.96.170:8000/prima
 #EXTINF:-1,Перец
 http://4BA9EBDB07C05883:@5.159.96.170:8000/perez
 #EXTINF:-1,Перец
 http://4BA9EBDB07C05883:@5.159.96.170:8000/perezair
 #EXTINF:-1,Пятница
 http://188.254.86.130/streaming/friday/16/tvrec/playlist.m3u8
-#EXTINF:-1,Москва 24
+#EXTINF:-1,Москва-24
 http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&cast_id=1661
 #EXTINF:-1,ОТР
 http://4BA9EBDB07C05883:@5.159.96.170:8000/otr
-#EXTINF:-1,Енисей
+#EXTINF:-1,Енисей регион
 http://4BA9EBDB07C05883:@5.159.96.170:8000/enisei
 #EXTINF:-1,Афон ТВ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/ortv
 #EXTINF:-1,ТВК
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tvk
 
-#EXTINF:-1,24_Doc
+#EXTINF:-1,24 ДОК
 http://5.45.76.46:80/iptv/F94KG62C6C/512/index.m3u8
 #EXTINF:-1,National Geographic
 http://hls01-01.az.myvideo.az/hls-live/livepkgr/natgeo/natgeo/natgeo.m3u8?mfamwuUL6IpOXDJ8WwxJ
@@ -81,9 +81,9 @@ http://85.112.114.62/streaming/natgeowildhd/16/fullhd/playlist.m3u8
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/animalplanet/animalplanet/animalplanet.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Animal Planet HD
 http://85.112.114.62/streaming/aphd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,Discovery
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/discovery/discovery/discovery.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1,Discovery HD
 http://85.112.114.62/streaming/discovery_hd/16/fullhd/playlist.m3u8
 #EXTINF:-1,Discovery Science
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/discoverysci/discoverysci/discoverysci.m3u8?mfamwuUL6IpOXDJ8WwxJ
@@ -110,9 +110,9 @@ http://85.112.114.62/streaming/motherchi/16/tvrec/playlist.m3u8
 #EXTINF:-1,РЖД
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rzd
 
-#EXTINF:-1,Кинопоказ-1 HD
+#EXTINF:-1,Кинопоказ HD-1
 http://188.254.86.130/streaming/kinopokaz1_hd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Кинопоказ-2 HD
+#EXTINF:-1,Кинопоказ HD-2
 http://188.254.86.130/streaming/kinopokaz_2_hd/16/fullhd/playlist.m3u8
 #EXTINF:-1,Sony Entertainment Television HD
 http://188.254.86.130/streaming/set_hd/16/fullhd/playlist.m3u8
@@ -124,9 +124,9 @@ http://85.112.114.62/streaming/foxlife_hd/16/fullhd/playlist.m3u8
 http://188.254.86.130/streaming/mgm_hd/16/fullhd/playlist.m3u8
 #EXTINF:-1,myZen.tv HD
 http://188.254.86.130/streaming/myzenhd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Outdoor channel HD
+#EXTINF:-1,Outdoor HD
 http://188.254.86.130/streaming/outchhd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Наше новое кино
+#EXTINF:-1,Наше Новое Кино
 http://iptv2.zargacum.net/iptv/F94KG62C6C/517/index.m3u8
 #EXTINF:-1,Наше кино
 http://iptv2.zargacum.net/iptv/F94KG62C6C/126/index.m3u8
@@ -147,33 +147,33 @@ http://194.143.148.19:7088/udp/233.187.37.106:1234
 http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
 #EXTINF:-1,Карусель
 http://hls01-09.az.myvideo.az/hls-live/livepkgr/karusel/karusel/karusel.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Disney
+#EXTINF:-1,Disney Channel
 http://hls01-05.az.myvideo.az/hls-live/livepkgr/disney/disney/disney.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Nickelodeon
 http://hls01-05.az.myvideo.az/hls-live/livepkgr/nickelodeon/nickelodeon/nickelodeon.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Детский
+#EXTINF:-1,Детский канал
 http://188.254.86.130/streaming/forkids/16/tvrec/playlist.m3u8
 
-#EXTINF:-1,МУЗ ТВ
+#EXTINF:-1,МУЗ-ТВ
 http://5.45.76.46:80/iptv/F94KG62C6C/116/index.m3u8
-#EXTINF:-1,RU TV
+#EXTINF:-1,RU.TV
 http://5.45.76.46:80/iptv/F94KG62C6C/107/index.m3u8
-#EXTINF:-1,VH-1
+#EXTINF:-1,VH1 European
 http://hls01-03.az.myvideo.az/hls-live/livepkgr/vh1/vh1/vh1.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,MTV
+#EXTINF:-1,MTV European
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mtv
-#EXTINF:-1,MTV
+#EXTINF:-1,MTV European
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
 #EXTINF:-1,A-One
 http://85.112.114.62/streaming/aone/16/tvrec/playlist.m3u8
-#EXTINF:-1,Music Box
+#EXTINF:-1,Music Box RU
 http://85.112.114.62/streaming/musboxtv/16/tvrec/playlist.m3u8
 
 #EXTINF:-1,Eurosport
 http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Eurosport 2
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Спорт Плюс
+#EXTINF:-1,Спорт ПЛЮС
 http://iptv2.zargacum.net/iptv/F94KG62C6C/123/index.m3u8
 #EXTINF:-1,СпортХит
 http://iptv2.zargacum.net/iptv/F94KG62C6C/522/index.m3u8
@@ -181,13 +181,13 @@ http://iptv2.zargacum.net/iptv/F94KG62C6C/522/index.m3u8
 http://iptv2.zargacum.net/iptv/F94KG62C6C/532/index.m3u8
 #EXTINF:-1,КХЛ HD
 http://188.254.86.130/streaming/khlhd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Футбол НТВ+ 
+#EXTINF:-1,НТВ-ПЛЮС Футбол
 http://iptv2.zargacum.net/iptv/F94KG62C6C/124/index.m3u8
-#EXTINF:-1,Футбол 2 
+#EXTINF:-1,НТВ-ПЛЮС Футбол 2
 http://iptv2.zargacum.net/iptv/F94KG62C6C/530/index.m3u8
-#EXTINF:-1,Теннис
+#EXTINF:-1,НТВ-ПЛЮС Теннис
 http://iptv2.zargacum.net/iptv/F94KG62C6C/528/index.m3u8
-#EXTINF:-1,Баскетбол
+#EXTINF:-1,НТВ-ПЛЮС Баскетбол
 http://iptv2.zargacum.net/iptv/F94KG62C6C/529/index.m3u8
 
 #EXTINF:-1,Домашний магазин
