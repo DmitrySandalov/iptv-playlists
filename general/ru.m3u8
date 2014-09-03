@@ -128,18 +128,6 @@ http://188.254.86.130/streaming/mgm_hd/16/fullhd/playlist.m3u8
 http://188.254.86.130/streaming/myzenhd/16/fullhd/playlist.m3u8
 #EXTINF:-1,Outdoor HD
 http://188.254.86.130/streaming/outchhd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Наше Новое Кино
-http://iptv2.zargacum.net/iptv/F94KG62C6C/517/index.m3u8
-#EXTINF:-1,Наше кино
-http://iptv2.zargacum.net/iptv/F94KG62C6C/126/index.m3u8
-#EXTINF:-1,Киносоюз
-http://iptv2.zargacum.net/iptv/F94KG62C6C/509/index.m3u8
-#EXTINF:-1,Премьера
-http://iptv2.zargacum.net/iptv/F94KG62C6C/125/index.m3u8
-#EXTINF:-1,Кинолюкс
-http://iptv2.zargacum.net/iptv/F94KG62C6C/521/index.m3u8
-#EXTINF:-1,Кинохит
-http://iptv2.zargacum.net/iptv/F94KG62C6C/516/index.m3u8
 #EXTINF:-1,Кино Плюс
 http://194.143.148.19:7088/udp/233.187.37.106:1234
 
@@ -173,22 +161,8 @@ http://109.239.142.62:1935/live/hlsstream/vcx73.m3u8
 http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Eurosport 2
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Спорт ПЛЮС
-http://iptv2.zargacum.net/iptv/F94KG62C6C/123/index.m3u8
-#EXTINF:-1,СпортХит
-http://iptv2.zargacum.net/iptv/F94KG62C6C/522/index.m3u8
-#EXTINF:-1,Спорт Союз
-http://iptv2.zargacum.net/iptv/F94KG62C6C/532/index.m3u8
 #EXTINF:-1,КХЛ HD
 http://188.254.86.130/streaming/khlhd/16/fullhd/playlist.m3u8
-#EXTINF:-1,НТВ-ПЛЮС Футбол
-http://iptv2.zargacum.net/iptv/F94KG62C6C/124/index.m3u8
-#EXTINF:-1,НТВ-ПЛЮС Футбол 2
-http://iptv2.zargacum.net/iptv/F94KG62C6C/530/index.m3u8
-#EXTINF:-1,НТВ-ПЛЮС Теннис
-http://iptv2.zargacum.net/iptv/F94KG62C6C/528/index.m3u8
-#EXTINF:-1,НТВ-ПЛЮС Баскетбол
-http://iptv2.zargacum.net/iptv/F94KG62C6C/529/index.m3u8
 
 #EXTINF:-1,Fashion TV
 http://85.112.114.62/streaming/fashion/16/tvrec/playlist.m3u8
