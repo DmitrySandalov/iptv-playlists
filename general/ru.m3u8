@@ -52,7 +52,9 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/perez
 http://4BA9EBDB07C05883:@5.159.96.170:8000/perezair
 #EXTINF:-1,Пятница
 http://188.254.86.130/streaming/friday/16/tvrec/playlist.m3u8
-#EXTINF:-1,Москва-24
+#EXTINF:-1,Пятница
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mtv
+Москва-24
 http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&cast_id=1661
 #EXTINF:-1,ОТР
 http://4BA9EBDB07C05883:@5.159.96.170:8000/otr
@@ -146,8 +148,6 @@ http://188.254.86.130/streaming/2x2tv/16/tvrec/playlist.m3u8
 
 #EXTINF:-1,VH1 European
 http://hls01-03.az.myvideo.az/hls-live/livepkgr/vh1/vh1/vh1.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,MTV European
-http://4BA9EBDB07C05883:@5.159.96.170:8000/mtv
 #EXTINF:-1,MTV European
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
 #EXTINF:-1,A-One
