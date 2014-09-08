@@ -63,12 +63,22 @@ check_stream() {
         echo_yellow "[$resp_code] $(check_stream_302 $1)"
         echo_yellow {$1}
     else
-        echo_red "[$resp_code] $1"
+        check_stream_get $1
     fi
 }
 
 check_stream_302() {
     curl -m 5 -s -I -L -o /dev/null -w "%{url_effective}\n" $1
+}
+
+check_stream_get() {
+    response=$(curl -m 3 -o /dev/null -sL -w "%{http_code} %{url_effective}\\n" $1)
+    resp_code=`echo $response | awk '{print $1}'`
+    if [ $resp_code = '200' ]; then
+        echo_green "[$resp_code] $1"
+    else
+        echo_red "[$resp_code] $1"
+    fi
 }
 
 if [[ -n "$file" ]]; then
