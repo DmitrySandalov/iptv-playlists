@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,EuroNews
-http://hls01-06.az.myvideo.az/hls-live/livepkgr/euronews/euronews/euronews.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,EuroNews
-http://5.128.90.97:1234/udp/239.1.1.5:1234
-#EXTINF:-1,РБК
-http://188.254.86.130/streaming/rbk/16/tvrec/playlist.m3u8
 #EXTINF:-1,РБК
 http://5.128.90.97:1234/udp/239.1.1.2:1234
 #EXTINF:-1,Lifenews
@@ -26,8 +20,6 @@ http://85.112.114.62/streaming/1kanal/16/tvrec/playlist.m3u8
 http://5.128.90.97:1234/udp/239.1.15.20:1234
 #EXTINF:-1,Россия 1
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rus1air
-#EXTINF:-1,Россия 1 HD
-http://188.254.86.130/streaming/russiahd/16/fullhd/playlist.m3u8
 #EXTINF:-1,Россия 2 (Спорт)
 http://4BA9EBDB07C05883:@5.159.96.170:8000/sport
 #EXTINF:-1,Пятый Канал
@@ -52,14 +44,10 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/prima
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tnt
 #EXTINF:-1,ТНТ
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tntair
-#EXTINF:-1,ТНТ Comedy
-http://hls01-08.az.myvideo.az/hls-live/livepkgr/komeditv/komeditv/komeditv.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Перец
 http://4BA9EBDB07C05883:@5.159.96.170:8000/perez
 #EXTINF:-1,Перец
 http://4BA9EBDB07C05883:@5.159.96.170:8000/perezair
-#EXTINF:-1,Пятница
-http://188.254.86.130/streaming/friday/16/tvrec/playlist.m3u8
 #EXTINF:-1,Пятница
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mtv
 #EXTINF:-1,Москва-24
@@ -79,30 +67,8 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/tvk
 
 #EXTINF:-1,24 ДОК
 http://5.128.90.97:1234/udp/239.1.20.3:1234
-#EXTINF:-1,National Geographic
-http://hls01-01.az.myvideo.az/hls-live/livepkgr/natgeo/natgeo/natgeo.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,National Geographic HD
-http://85.112.114.62/streaming/natgeohd/16/fullhd/playlist.m3u8
-#EXTINF:-1,National Geographic HD
-rtsp://178.218.212.102:1935/live/Stream3
-#EXTINF:-1,Nat Geo Wild HD
-http://hls01-03.az.myvideo.az/hls-live/livepkgr/natgeowild/natgeowild/natgeowild.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Nat Geo Wild HD
-http://85.112.114.62/streaming/natgeowildhd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/animalplanet/animalplanet/animalplanet.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Animal Planet HD
-http://85.112.114.62/streaming/aphd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Discovery
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/discovery/discovery/discovery.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Discovery HD
-http://85.112.114.62/streaming/discovery_hd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Discovery Science
-http://hls01-06.az.myvideo.az/hls-live/livepkgr/discoverysci/discoverysci/discoverysci.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,Discovery Science
 http://5.128.90.97:1234/udp/239.1.5.9:1234
-#EXTINF:-1,Discovery World
-http://hls01-06.az.myvideo.az/hls-live/livepkgr/discoveryworld/discoveryworld/discoveryworld.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:0,Моя Планета
 http://5.128.90.97:1234/udp/239.1.5.17:1234
 #EXTINF:0,Наука 2.0
@@ -113,12 +79,6 @@ http://5.128.90.97:1234/udp/239.1.5.7:1234
 http://5.128.90.97:1234/udp/239.1.5.13:1234
 #EXTINF:-1,Russian Travel Guide (RTG TV)
 http://5.128.90.97:1234/udp/239.1.17.22:1234
-#EXTINF:-1,Viasat History
-http://hls01-11.az.myvideo.az/hls-live/livepkgr/viasathist/viasathist/viasathist.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Viasat Explorer
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/viasatexp/viasatexp/viasatexp.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,24 Техно
-http://188.254.86.130/streaming/24techno/16/tvrec/playlist.m3u8
 #EXTINF:-1,МИР
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mir
 #EXTINF:-1,МИР 24
@@ -142,42 +102,11 @@ http://85.112.114.62/streaming/jv/16/tvrec/playlist.m3u8
 #EXTINF:-1,РЖД
 http://4BA9EBDB07C05883:@5.159.96.170:8000/rzd
 
-#EXTINF:-1,Кинопоказ HD-1
-http://188.254.86.130/streaming/kinopokaz1_hd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Кинопоказ HD-2
-http://188.254.86.130/streaming/kinopokaz_2_hd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Sony Entertainment Television HD
-http://188.254.86.130/streaming/set_hd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Fox HD
-http://188.254.86.130/streaming/fox_hd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Fox Life HD
-http://85.112.114.62/streaming/foxlife_hd/16/fullhd/playlist.m3u8
-#EXTINF:-1,MGM HD
-http://188.254.86.130/streaming/mgm_hd/16/fullhd/playlist.m3u8
-#EXTINF:-1,myZen.tv HD
-http://188.254.86.130/streaming/myzenhd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Outdoor HD
-http://188.254.86.130/streaming/outchhd/16/fullhd/playlist.m3u8
-#EXTINF:-1,Кино Плюс
-http://194.143.148.19:7088/udp/233.187.37.106:1234
-
 #EXTINF:-1,Карусель
 http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
-#EXTINF:-1,Карусель
-http://hls01-09.az.myvideo.az/hls-live/livepkgr/karusel/karusel/karusel.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Disney Channel
-http://hls01-05.az.myvideo.az/hls-live/livepkgr/disney/disney/disney.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Nickelodeon
-http://hls01-05.az.myvideo.az/hls-live/livepkgr/nickelodeon/nickelodeon/nickelodeon.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Детский канал
-http://188.254.86.130/streaming/forkids/16/tvrec/playlist.m3u8
-#EXTINF:-1,Канал 2x2
-http://188.254.86.130/streaming/2x2tv/16/tvrec/playlist.m3u8
 #EXTINF:-1,Канал 2x2
 http://5.128.90.97:1234/udp/239.1.2.1:1234
 
-#EXTINF:-1,VH1 European
-http://hls01-03.az.myvideo.az/hls-live/livepkgr/vh1/vh1/vh1.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,MTV European
 http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
 #EXTINF:-1,A-One
@@ -186,13 +115,6 @@ http://85.112.114.62/streaming/aone/16/tvrec/playlist.m3u8
 http://85.112.114.62/streaming/musboxtv/16/tvrec/playlist.m3u8
 #EXTINF:-1,1HD
 http://109.239.142.62:1935/live/hlsstream/vcx73.m3u8
-
-#EXTINF:-1,Eurosport
-http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Eurosport 2
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,КХЛ HD
-http://188.254.86.130/streaming/khlhd/16/fullhd/playlist.m3u8
 
 #EXTINF:-1,Fashion TV
 http://85.112.114.62/streaming/fashion/16/tvrec/playlist.m3u8

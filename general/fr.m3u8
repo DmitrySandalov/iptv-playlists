@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,EuroNews
+http://5.128.90.97:1234/udp/239.1.1.5:1234
+#EXTINF:-1,EuroNews
 http://hd1.lsops.net/live/euronews_fr_340/.m3u8
 #EXTINF:-1,France 24
 http://hls01-07.az.myvideo.az/hls-live/livepkgr/france24/france24/france24.m3u8?mfamwuUL6IpOXDJ8WwxJ
