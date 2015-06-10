@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,Business FM
+http://bfm.hostingradio.ru:8004/fm
+#EXTINF:-1,Chocolate Radio
+http://choco.hostingradio.ru:10010/fm128
+#EXTINF:-1,DFM
+http://dfm.fmtuner.ru/
+#EXTINF:-1,Love Radio
+http://stream2.loveradio.ru/12_love_24
+#EXTINF:-1,Relax FM
+http://eu7.101.ru:8000/v13_1
+#EXTINF:-1,Вести FM (64kb)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
+#EXTINF:-1,Вести FM (192kb)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF:-1,Европа Плюс (32kb)
 http://ep32server.streamr.ru:8032/ep32
 #EXTINF:-1,Европа Плюс (64kb)
@@ -11,6 +25,8 @@ http://de02.streamr.ru:8052/europaplus256.mp3
 http://radio.master.dj:8000/Neva.fm
 #EXTINF:-1,Радио для двоих
 http://217.170.67.77/rdd
+#EXTINF:-1,Радио Эрмитаж
+http://91.190.117.131:8000/live
 #EXTINF:-1,Ретро FM (32kb)
 http://retroserver.streamr.ru:8043/retro32
 #EXTINF:-1,Ретро FM (64kb)
@@ -19,3 +35,7 @@ http://retroserver.streamr.ru:8043/retro64
 http://retroserver.streamr.ru:8043/retro128
 #EXTINF:-1,Ретро FM (256kb)
 http://retro256server.streamr.ru:8048/retro256
+#EXTINF:-1,Русское Радио
+http://rr.fmtuner.ru
+#EXTINF:-1,Эхо Москвы
+http://81.19.85.197/echo.mp3
