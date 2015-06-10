@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Европа Плюс (32kb)
+http://ep32server.streamr.ru:8032/ep32
+#EXTINF:-1,Европа Плюс (64kb)
+http://ep64server.streamr.ru:8031/ep64
+#EXTINF:-1,Европа Плюс (128kb)
+http://de02.streamr.ru:8030/ep128
+#EXTINF:-1,Европа Плюс (256kb)
+http://de02.streamr.ru:8052/europaplus256.mp3
+#EXTINF:-1,Нева FM
+http://radio.master.dj:8000/Neva.fm
+#EXTINF:-1,Радио для двоих
+http://217.170.67.77/rdd
+#EXTINF:-1,Ретро FM (32kb)
+http://retroserver.streamr.ru:8043/retro32
+#EXTINF:-1,Ретро FM (64kb)
+http://retroserver.streamr.ru:8043/retro64
+#EXTINF:-1,Ретро FM (128kb)
+http://retroserver.streamr.ru:8043/retro128
+#EXTINF:-1,Ретро FM (256kb)
+http://retro256server.streamr.ru:8048/retro256

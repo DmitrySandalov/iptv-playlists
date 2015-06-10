@@ -6,11 +6,11 @@ This repo contains a set of IPTV playlists.
 
 Get started:
 ------------
-1. Open ```general``` folder
+1. Open ```general/tv``` folder
 2. Grab some m3u list 
 3. Feed it to a media player of your favour
 ```bash
-$ vlc ./general/ru.m3u8
+$ vlc ./general/tv/ru.m3u8
 ```
 
 Lists maintaining:
@@ -19,7 +19,7 @@ The folder ```util``` helps to check if streams are alive or not.
 
 ```bash
 ./check-streams.sh                          # checks all m3u-files
-./check-streams.sh -f ../general/ru.m3u8    # check single file
+./check-streams.sh -f ../general/tv/ru.m3u8    # check single file
 ```
 
 Contribute:
