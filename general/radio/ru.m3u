@@ -21,6 +21,8 @@ http://ep64server.streamr.ru:8031/ep64
 http://de02.streamr.ru:8030/ep128
 #EXTINF:-1,Европа Плюс (256kb)
 http://de02.streamr.ru:8052/europaplus256.mp3
+#EXTINF:-1,НАШЕ Радио
+http://nashe1.hostingradio.ru/nashe-64.mp3
 #EXTINF:-1,Нева FM
 http://radio.master.dj:8000/Neva.fm
 #EXTINF:-1,Радио для двоих
