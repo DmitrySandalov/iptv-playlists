@@ -146,18 +146,42 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel
 #EXTINF:-1,Канал 2x2
 http://5.128.90.97:1234/udp/239.1.2.1:1234
 
-#EXTINF:-1,MTV European
-http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
-#EXTINF:-1,A-One
-http://85.112.114.62/streaming/aone/16/tvrec/playlist.m3u8
-#EXTINF:-1,Music Box RU
-http://85.112.114.62/streaming/musboxtv/16/tvrec/playlist.m3u8
 #EXTINF:-1,1HD
 http://109.239.142.62:1935/live/hlsstream/vcx73.m3u8
-#EXTINF:-1,MTV Live HD
-http://78.30.254.43:8989/udp/239.0.0.196:4000
+#EXTINF:-1,A-ONE
+http://78.30.254.43:8989/udp/239.0.0.160:4000
+#EXTINF:-1,A-ONE
+http://85.112.114.62/streaming/aone/16/tvrec/playlist.m3u8
+#EXTINF:-1,Europa Plus TV
+http://78.30.254.43:8989/udp/239.0.0.218:4000
+#EXTINF:-1,FM TV
+http://78.30.254.43:8989/udp/239.0.0.171:4000
+#EXTINF:-1,Mezzo
+http://78.30.254.43:8989/udp/239.0.0.124:4000
+#EXTINF:-1,MTV Dance
+http://78.30.254.43:8989/udp/239.0.0.80:4000
+#EXTINF:-1,MTV European
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair
 #EXTINF:-1,MTV Hits
 http://78.30.254.43:8989/udp/239.0.0.205:4000
+#EXTINF:-1,MTV Live HD
+http://78.30.254.43:8989/udp/239.0.0.196:4000
+#EXTINF:-1,MTV Rocks
+http://78.30.254.43:8989/udp/239.0.0.143:4000
+#EXTINF:-1,MTV Россия
+http://78.30.254.43:8989/udp/239.0.0.170:4000
+#EXTINF:-1,Music Box RU
+http://85.112.114.62/streaming/musboxtv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Music Box Ua
+http://78.30.254.43:8989/udp/239.0.0.135:4000
+#EXTINF:-1,RU.TV
+http://78.30.254.43:8989/udp/239.0.0.173:4000
+#EXTINF:-1,RU MUSIC
+http://78.30.254.43:8989/udp/239.0.0.3:4000
+#EXTINF:-1,Rusong TV
+http://78.30.254.43:8989/udp/239.0.0.177:4000
+#EXTINF:-1,Музыка Первого
+http://78.30.254.43:8989/udp/239.0.0.207:4000
 
 #EXTINF:-1,Fashion TV
 http://85.112.114.62/streaming/fashion/16/tvrec/playlist.m3u8
@@ -169,16 +193,11 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/magazin
 http://4BA9EBDB07C05883:@5.159.96.170:8000/tvsale
 
 
-
-
-
 ### UNSORTED
 #EXTINF:-1,Channel 5 (Ukraine)
 http://78.30.254.43:8989/udp/239.0.0.1:4000
 #EXTINF:-1,News One
 http://78.30.254.43:8989/udp/239.0.0.2:4000
-#EXTINF:-1,RU Music
-http://78.30.254.43:8989/udp/239.0.0.3:4000
 #EXTINF:-1,OTV
 http://78.30.254.43:8989/udp/239.0.0.4:4000
 #EXTINF:-1,EKO TV
@@ -293,8 +312,6 @@ http://78.30.254.43:8989/udp/239.0.0.75:4000
 http://78.30.254.43:8989/udp/239.0.0.77:4000
 #EXTINF:-1,NTN
 http://78.30.254.43:8989/udp/239.0.0.78:4000
-#EXTINF:-1,MTV Dance
-http://78.30.254.43:8989/udp/239.0.0.80:4000
 #EXTINF:-1, Eurosport2 (EN)
 http://78.30.254.43:8989/udp/239.0.0.81:4000
 #EXTINF:-1,Nautical Channel (EN)
@@ -377,8 +394,6 @@ http://78.30.254.43:8989/udp/239.0.0.121:4000
 http://78.30.254.43:8989/udp/239.0.0.122:4000
 #EXTINF:-1,Enter Film
 http://78.30.254.43:8989/udp/239.0.0.123:4000
-#EXTINF:-1,Mezzo
-http://78.30.254.43:8989/udp/239.0.0.124:4000
 #EXTINF:-1,3D
 http://78.30.254.43:8989/udp/239.0.0.125:4000
 #EXTINF:-1,Zoom
@@ -397,8 +412,6 @@ http://78.30.254.43:8989/udp/239.0.0.132:4000
 http://78.30.254.43:8989/udp/239.0.0.133:4000
 #EXTINF:-1,Russian Extreme TV
 http://78.30.254.43:8989/udp/239.0.0.134:4000
-#EXTINF:-1,Musicbox
-http://78.30.254.43:8989/udp/239.0.0.135:4000
 #EXTINF:-1,ID (EN)
 http://78.30.254.43:8989/udp/239.0.0.136:4000
 #EXTINF:-1,Avto Plus
@@ -413,8 +426,6 @@ http://78.30.254.43:8989/udp/239.0.0.140:4000
 http://78.30.254.43:8989/udp/239.0.0.141:4000
 #EXTINF:-1,Vremya
 http://78.30.254.43:8989/udp/239.0.0.142:4000
-#EXTINF:-1,MTV Rocks
-http://78.30.254.43:8989/udp/239.0.0.143:4000
 #EXTINF:-1,Fox Life (EN)
 http://78.30.254.43:8989/udp/239.0.0.144:4000
 #EXTINF:-1,Teleklub
@@ -441,8 +452,6 @@ http://78.30.254.43:8989/udp/239.0.0.155:4000
 http://78.30.254.43:8989/udp/239.0.0.156:4000
 #EXTINF:-1,Gamanoid
 http://78.30.254.43:8989/udp/239.0.0.157:4000
-#EXTINF:-1,A One
-http://78.30.254.43:8989/udp/239.0.0.160:4000
 #EXTINF:-1,2×2
 http://78.30.254.43:8989/udp/239.0.0.161:4000
 #EXTINF:-1,Piyatnitza
@@ -461,22 +470,14 @@ http://78.30.254.43:8989/udp/239.0.0.167:4000
 http://78.30.254.43:8989/udp/239.0.0.168:4000
 #EXTINF:-1,NTV+ Futbol 1HD
 http://78.30.254.43:8989/udp/239.0.0.169:4000
-#EXTINF:-1,MTV
-http://78.30.254.43:8989/udp/239.0.0.170:4000
-#EXTINF:-1,FM TV
-http://78.30.254.43:8989/udp/239.0.0.171:4000
 #EXTINF:-1,Park Razvleceni
 http://78.30.254.43:8989/udp/239.0.0.172:4000
-#EXTINF:-1,RU TV
-http://78.30.254.43:8989/udp/239.0.0.173:4000
 #EXTINF:-1,Tiji
 http://78.30.254.43:8989/udp/239.0.0.174:4000
 #EXTINF:-1,STV
 http://78.30.254.43:8989/udp/239.0.0.175:4000
 #EXTINF:-1,Bridge TV
 http://78.30.254.43:8989/udp/239.0.0.176:4000
-#EXTINF:-1,Rusong TV
-http://78.30.254.43:8989/udp/239.0.0.177:4000
 #EXTINF:-1,TV1000 Ruskoe Kino
 http://78.30.254.43:8989/udp/239.0.0.178:4000
 #EXTINF:-1,Viasat Sport (EN)
@@ -525,8 +526,6 @@ http://78.30.254.43:8989/udp/239.0.0.203:4000
 http://78.30.254.43:8989/udp/239.0.0.204:4000
 #EXTINF:-1,Dom Kino
 http://78.30.254.43:8989/udp/239.0.0.206:4000
-#EXTINF:-1,Muzika
-http://78.30.254.43:8989/udp/239.0.0.207:4000
 #EXTINF:-1,Espreso TV
 http://78.30.254.43:8989/udp/239.0.0.209:4000
 #EXTINF:-1,TDK
@@ -535,8 +534,6 @@ http://78.30.254.43:8989/udp/239.0.0.211:4000
 http://78.30.254.43:8989/udp/239.0.0.216:4000
 #EXTINF:-1,Tonis HD
 http://78.30.254.43:8989/udp/239.0.0.217:4000
-#EXTINF:-1,Europa Plus TV
-http://78.30.254.43:8989/udp/239.0.0.218:4000
 #EXTINF:-1,Katun 24
 http://78.30.254.43:8989/udp/239.0.0.219:4000
 #EXTINF:-1,Telekanal Futbol –
