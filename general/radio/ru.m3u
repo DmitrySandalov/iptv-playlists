@@ -77,6 +77,8 @@ http://eu7.101.ru:8000/v1_1
 http://jazz.streamr.ru/jazz-128.mp3
 #EXTINF:-1,Радио Romantika
 http://eu7.101.ru:8000/v4_1
+#EXTINF:-1,Радио Балтика
+https://audio.baltika.fm/baltika.mp3
 #EXTINF:-1,Радио Дача
 http://stream.radiodacha.ru:9000/14_dacha_24
 #EXTINF:-1,Радио для двоих
