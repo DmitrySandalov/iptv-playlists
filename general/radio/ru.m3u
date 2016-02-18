@@ -93,8 +93,10 @@ http://mc.fmtuner.ru/
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1,Радио Рекорд
 http://air.radiorecord.ru:8101/rr_320
-#EXTINF:-1,Радио Шансон
-http://icecast.chanson.cdnvideo.ru:8000/chanson_64_bu.ogg
+#EXTINF:-1,Радио Шансон (64kb)
+http://chanson.hostingradio.ru:8041/chanson64.mp3
+#EXTINF:-1,Радио Шансон (128kb)
+http://chanson.hostingradio.ru:8041/chanson128.mp3
 #EXTINF:-1,Радио "Серебрянный Дождь"
 http://radiosilver.corbina.net:8000/silver128a.mp3
 #EXTINF:-1,Радио Эрмитаж
