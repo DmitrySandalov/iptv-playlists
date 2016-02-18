@@ -58,9 +58,9 @@ http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
 #EXTINF:-1,Мегаполис FM
 http://stream04.media.rambler.ru/megapolis128.mp3
 #EXTINF:-1,НАШЕ Радио (64kb)
-http://nashe3.hostingradio.ru/nashe-64.mp3
+http://nashe64.streamr.ru
 #EXTINF:-1,НАШЕ Радио (128kb)
-http://nashe5.hostingradio.ru:8066/nashe-128.mp3 
+http://nashe128.streamr.ru
 #EXTINF:-1,Нева FM
 http://radio.master.dj:8000/Neva.fm
 #EXTINF:-1,Радио 7 на семи холмах (32kb)
