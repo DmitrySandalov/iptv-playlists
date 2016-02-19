@@ -65,6 +65,12 @@ http://nashe64.streamr.ru
 http://nashe128.streamr.ru
 #EXTINF:-1,Нева FM
 http://radio.master.dj:8000/Neva.fm
+#EXTINF:-1,Орфей (64kb)
+http://icecast.orpheus.cdnvideo.ru/orpheus_64
+#EXTINF:-1,Орфей (128kb)
+http://icecast.orpheus.cdnvideo.ru/orpheus_128
+#EXTINF:-1,Орфей (192kb)
+http://icecast.orpheus.cdnvideo.ru/orpheus_192
 #EXTINF:-1,Питер FM
 http://icecast.piktv.cdnvideo.ru/piterfm
 #EXTINF:-1,Радио 7 на семи холмах (32kb)
@@ -77,6 +83,16 @@ http://radio7server.streamr.ru/radio7128
 http://maximum.fmtuner.ru/
 #EXTINF:-1,Радио ENERGY
 http://eu7.101.ru:8000/v1_1
+#EXTINF:-1,Радио Classic
+http://cfm.jazzandclassic.ru:14536/rcstream.mp3
+#EXTINF:-1,Радио Classic (Gold)
+http://cfm.jazzandclassic.ru:14536/gcstream.mp3
+#EXTINF:-1,Радио Classic (Vocals)
+http://cfm.jazzandclassic.ru:14536/cvstream.mp3
+#EXTINF:-1,Радио Classic (Essential)
+http://cfm.jazzandclassic.ru:14536/ecstream.mp3
+#EXTINF:-1,Радио Classic (Поэзия)
+http://cfm.jazzandclassic.ru:14536/pcstream.mp3
 #EXTINF:-1,Радио Jazz
 http://jazz128.streamr.ru/
 #EXTINF:-1,Радио Romantika
@@ -85,6 +101,8 @@ http://eu7.101.ru:8000/v4_1
 http://icecast.rian.cdnvideo.ru/rian.voicerus
 #EXTINF:-1,Радио Балтика
 https://audio.baltika.fm/baltika.mp3
+#EXTINF:-1,Радио Вера
+http://radiovera128.streamr.ru/
 #EXTINF:-1,Радио Дача
 http://stream.radiodacha.ru:9000/14_dacha_24
 #EXTINF:-1,Радио Зенит
