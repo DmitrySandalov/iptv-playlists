@@ -9,6 +9,8 @@ http://eu7.101.ru:8000/v11_1
 http://choco.hostingradio.ru:10010/fm128
 #EXTINF:-1,DFM
 http://dfm.fmtuner.ru/
+#EXTINF:-1,Euronews Radio
+http://euronews-05.ice.infomaniak.ch/euronews-05.aac
 #EXTINF:-1,Love Radio
 http://stream2.loveradio.ru/12_love_24
 #EXTINF:-1,Relax FM
@@ -63,6 +65,8 @@ http://nashe64.streamr.ru
 http://nashe128.streamr.ru
 #EXTINF:-1,Нева FM
 http://radio.master.dj:8000/Neva.fm
+#EXTINF:-1,Питер FM
+http://icecast.piktv.cdnvideo.ru/piterfm
 #EXTINF:-1,Радио 7 на семи холмах (32kb)
 http://radio7server.streamr.ru/radio732
 #EXTINF:-1,Радио 7 на семи холмах (64kb)
@@ -77,10 +81,14 @@ http://eu7.101.ru:8000/v1_1
 http://jazz128.streamr.ru/
 #EXTINF:-1,Радио Romantika
 http://eu7.101.ru:8000/v4_1
+#EXTINF:-1,Радио Sputnik
+http://icecast.rian.cdnvideo.ru/rian.voicerus
 #EXTINF:-1,Радио Балтика
 https://audio.baltika.fm/baltika.mp3
 #EXTINF:-1,Радио Дача
 http://stream.radiodacha.ru:9000/14_dacha_24
+#EXTINF:-1,Радио Зенит
+http://stream.radiozenit.ru:8000/mp3.m3u
 #EXTINF:-1,Радио для двоих
 http://icecast.piktv.cdnvideo.ru/rdd128
 #EXTINF:-1,Радио Культура
