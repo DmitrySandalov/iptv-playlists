@@ -4,7 +4,7 @@ http://nashe2.hostingradio.ru/best-128.mp3
 #EXTINF:-1,Business FM
 http://bfm.hostingradio.ru:8004/fm
 #EXTINF:-1,Comedy Radio
-http://eu7.101.ru:8000/v11_1
+http://ic3.101.ru:8000/v11_1
 #EXTINF:-1,Chocolate Radio
 http://choco.hostingradio.ru:10010/fm128
 #EXTINF:-1,DFM
@@ -20,11 +20,11 @@ http://93.189.147.116:8000/full_stream256.mp3
 #EXTINF:-1,Love Radio
 http://stream2.loveradio.ru/12_love_24
 #EXTINF:-1,Relax FM
-http://eu7.101.ru:8000/v13_1
+http://ic3.101.ru:8000/v13_1
 #EXTINF:-1,Rock FM
 http://nashe2.hostingradio.ru/rock-128.mp3
 #EXTINF:-1,Авторадио
-http://eu7.101.ru:8000/v3_1
+http://ic3.101.ru:8000/v3_1
 #EXTINF:-1,Вести FM (64kb)
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1,Вести FM (192kb)
@@ -38,15 +38,15 @@ http://video.govoritmoskva.ru:8880/rufm_m.mp3
 #EXTINF:-1,Дорожное Радио
 http://dor2server.streamr.ru:8000/dor_64_no
 #EXTINF:-1,Европа Плюс (32kb)
-http://ep32server.streamr.ru:8032/ep32
+http://ep32.streamr.ru/
 #EXTINF:-1,Европа Плюс (64kb)
-http://ep64server.streamr.ru:8031/ep64
+http://ep64.streamr.ru/
 #EXTINF:-1,Европа Плюс (128kb)
 http://ep128.hostingradio.ru:8030/ep128
 #EXTINF:-1,Европа Плюс (256kb)
 http://ep256.hostingradio.ru:8052/europaplus256.mp3
 #EXTINF:-1,Детское радио
-http://eu7.101.ru:8000/v14_1
+http://ic3.101.ru:8000/v14_1
 #EXTINF:-1,Кекс FM (64kb)
 http://emgspb.hostingradio.ru/keksfmspb64.mp3
 #EXTINF:-1,Кекс FM (128kb)
@@ -80,15 +80,15 @@ http://icecast.orpheus.cdnvideo.ru/orpheus_192
 #EXTINF:-1,Питер FM
 http://icecast.piktv.cdnvideo.ru/piterfm
 #EXTINF:-1,Радио 7 на семи холмах (32kb)
-http://radio7server.streamr.ru/radio732
+http://radio732.streamr.ru/
 #EXTINF:-1,Радио 7 на семи холмах (64kb)
-http://radio7server.streamr.ru/radio764
+http://radio764.streamr.ru/
 #EXTINF:-1,Радио 7 на семи холмах (128kb)
-http://radio7server.streamr.ru/radio7128
+http://radio7128.streamr.ru/
 #EXTINF:-1,Радио MAXIMUM
 http://maximum.fmtuner.ru/
 #EXTINF:-1,Радио ENERGY
-http://eu7.101.ru:8000/v1_1
+http://ic3.101.ru:8000/v1_1
 #EXTINF:-1,Радио Classic
 http://cfm.jazzandclassic.ru:14536/rcstream.mp3
 #EXTINF:-1,Радио Classic (Gold)
@@ -102,7 +102,7 @@ http://cfm.jazzandclassic.ru:14536/pcstream.mp3
 #EXTINF:-1,Радио Jazz
 http://jazz128.streamr.ru/
 #EXTINF:-1,Радио Romantika
-http://eu7.101.ru:8000/v4_1
+http://ic3.101.ru:8000/v4_1
 #EXTINF:-1,Радио Sputnik
 http://icecast.rian.cdnvideo.ru/rian.voicerus
 #EXTINF:-1,Радио Балтика
@@ -152,6 +152,6 @@ http://stream2.n340.com/13_taxi_24
 #EXTINF:-1,Хит Fm
 http://hit.fmtuner.ru/
 #EXTINF:-1,Юмор FM
-http://eu7.101.ru:8000/v5_1
+http://ic3.101.ru:8000/v5_1
 #EXTINF:-1,Эхо Москвы
 http://81.19.85.197/echo.mp3
