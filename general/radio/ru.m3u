@@ -11,6 +11,12 @@ http://choco.hostingradio.ru:10010/fm128
 http://dfm.fmtuner.ru/
 #EXTINF:-1,Euronews Radio
 http://euronews-05.ice.infomaniak.ch/euronews-05.aac
+#EXTINF:-1,Imagine Radio (64kb)
+http://93.189.147.116:8000/full_stream64.mp3
+#EXTINF:-1,Imagine Radio (128kb)
+http://93.189.147.116:8000/full_stream128.mp3
+#EXTINF:-1,Imagine Radio (256kb)
+http://93.189.147.116:8000/full_stream256.mp3
 #EXTINF:-1,Love Radio
 http://stream2.loveradio.ru/12_love_24
 #EXTINF:-1,Relax FM
