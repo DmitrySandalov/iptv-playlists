@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,101.RU - Lullaby
+http://ic2.101.ru:8000/c8_1
 #EXTINF:-1,BEST FM
 http://nashe2.hostingradio.ru/best-128.mp3
 #EXTINF:-1,Business FM
