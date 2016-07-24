@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,EuroNews
-http://5.128.90.97:1234/udp/239.1.1.5:1234
-#EXTINF:-1,EuroNews
-http://hd1.lsops.net/live/euronews_fr_340/.m3u8
-#EXTINF:-1,France 24
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/france24/france24/france24.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,BFMTV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 #EXTINF:-1,Arte
@@ -19,20 +13,10 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8
 #EXTINF:-1,RTC
 http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Hasbahca
-http://stream.air-tv.tv/live/_definst_/web2.stream/hasbahca.m3u8?wowzasessionid=1856325861
 #EXTINF:-1,Notele
 http://streaming06.axeweb.be:1935/live/direct.stream/playlist.m3u8
-#EXTINF:-1,Imedi
-http://powerstream.iphonewebtown.com:1935/imedi/mystream/playlist.m3u8
 #EXTINF:-1,Il TV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1,Opal TV
-http://str81.creacast.com:80/opaltv/high/playlist.m3u8
-#EXTINF:-1,I Film
-http://mtv.ashttp7.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SD/playlist.m3u8
-#EXTINF:-1,I Tele
-http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8
 #EXTINF:-1,EuroSport
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:-1,Oui FM
@@ -41,13 +25,7 @@ http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
 #EXTINF:-1,LCN
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1,Yveline1
-http://rtmp.infomaniak.ch/livecast/yveline1/playlist.m3u8
-#EXTINF:-1,IDF1
-http://vipwowza.yacast.net/idf1live/smil:live01_hd.smil/playlist.m3u8
 #EXTINF:-1,Rouge TV
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 #EXTINF:-1,Mens Up TV
 http://videos.mensup.fr/mensuptv/live/01.m3u8
-#EXTINF:-1,Mezzo
-http://hls01-03.az.myvideo.az/hls-live/livepkgr/mezzo/mezzo/mezzo.m3u8?mfamwuUL6IpOXDJ8WwxJ
