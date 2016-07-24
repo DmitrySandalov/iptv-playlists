@@ -1,3 +1,41 @@
 #EXTM3U
 #EXTINF:-1,Bloomberg
 http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I/master.m3u8?geo_country=US
+
+#EXTINF:-1,ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,TRAVEL
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,SHOWTIME  HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,?
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,SCI HD
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:-1,HBO-HD
+http://163.172.214.251:8000/play/HBO-HD
+#EXTINF:-1,US-BRAVO-HD
+http://163.172.214.251:8000/play/US-BRAVO-HD
+#EXTINF:-1,AMCHD
+http://163.172.214.251:8000/play/AMCHD
+#EXTINF:-1,CBS-HD
+http://163.172.214.251:8000/play/CBS-HD
+
+http://80.80.160.168/live/1/live.m3u8
+http://80.80.160.168/live/2/live.m3u8
+http://80.80.160.168/live/3/live.m3u8
+http://80.80.160.168/live/4/live.m3u8
+http://80.80.160.168/live/5/live.m3u8
+http://80.80.160.168/live/6/live.m3u8
+http://80.80.160.168/live/7/live.m3u8
+http://80.80.160.168/live/8/live.m3u8
+http://80.80.160.168/live/9/live.m3u8
