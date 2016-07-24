@@ -8,3 +8,164 @@ http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&cast_id=21
 
 #EXTINF:-1,Москва-24
 http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&cast_id=1661
+
+#EXTINF:0,Eurosport RU
+http://s02.mnogo-tv.by:8000/play/ESP
+#EXTINF:0,RTVi
+http://s02.mnogo-tv.by:8000/play/RTVI_TV
+#EXTINF:0,матч наш спорт
+http://s02.mnogo-tv.by:8000/play/NASH_SPORT
+#EXTINF:0,Discovery Science
+http://s02.mnogo-tv.by:8000/play/DiscoverySc
+#EXTINF:0,Радио Дача
+http://s02.mnogo-tv.by:8000/play/Radio_Dacha
+#EXTINF:0,LIFENEWS
+http://s02.mnogo-tv.by:8000/play/LIFE_NEWS
+#EXTINF:0,Беларусь 5
+http://s02.mnogo-tv.by:8000/play/BELARUS5
+#EXTINF:0,Радио Детское
+http://s02.mnogo-tv.by:8000/play/Detskoe_Radio
+#EXTINF:0,музыка первого
+http://s02.mnogo-tv.by:8000/play/MUZ_1
+#EXTINF:0,5 Питер
+http://s02.mnogo-tv.by:8000/play/5_RUS
+#EXTINF:0,Матч тв
+http://s02.mnogo-tv.by:8000/play/MATCH_TV
+#EXTINF:0,Радио Голос России
+http://s02.mnogo-tv.by:8000/play/Golos_Rossii
+#EXTINF:0,Беларусь 2
+http://s02.mnogo-tv.by:8000/play/BELARUS_2
+#EXTINF:0,TV 1000 ACTION
+http://s02.mnogo-tv.by:8000/play/TV_1000ACTION
+#EXTINF:0,Беларусь 1
+http://s02.mnogo-tv.by:8000/play/BELARUS1
+#EXTINF:0,TV 1000 русское кино
+http://s02.mnogo-tv.by:8000/play/TV_1000RKINO
+#EXTINF:0,Nickelodeon
+http://s02.mnogo-tv.by:8000/play/Kidszon
+#EXTINF:0,Матч футбол 2
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
+#EXTINF:0,Disney
+http://s02.mnogo-tv.by:8000/play/Disney
+#EXTINF:0,Eurosport 2 RU
+http://s02.mnogo-tv.by:8000/play/ESP2
+#EXTINF:0,NIC JR
+http://s02.mnogo-tv.by:8000/play/NIC_JR
+#EXTINF:0,365
+http://s02.mnogo-tv.by:8000/play/365Dney
+#EXTINF:0,Discovery HD
+http://s02.mnogo-tv.by:8000/play/Discovery
+#EXTINF:0,ТНТ International Беларусь
+http://s02.mnogo-tv.by:8000/play/TNT_INT
+#EXTINF:0,SETANTA SPORT PLUS
+http://s02.mnogo-tv.by:8000/play/SETANTASPORTPLUS
+#EXTINF:0,Boomerang
+http://s02.mnogo-tv.by:8000/play/Boomerang
+#EXTINF:0,Муз-ТВ
+http://s02.mnogo-tv.by:8000/play/MUZ_TV
+#EXTINF:0,наука
+http://s02.mnogo-tv.by:8000/play/NAUKA
+#EXTINF:0,HD Кино
+http://s02.mnogo-tv.by:8000/play/HD_KINO
+#EXTINF:0,Кинопремиум HD
+http://s02.mnogo-tv.by:8000/play/KINOPREMIUM_HD
+#EXTINF:0,Наш футбол
+http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
+#EXTINF:0,МАТЧ ИГРА
+http://s02.mnogo-tv.by:8000/play/IGRA
+#EXTINF:0,Kino SPACE TV
+http://s02.mnogo-tv.by:8000/play/SPACE_TV
+#EXTINF:0,ляминор
+http://s02.mnogo-tv.by:8000/play/MINOR
+#EXTINF:0,Cartoon Network
+http://s02.mnogo-tv.by:8000/play/CartoonNetwork
+#EXTINF:0,EURONEWS
+http://s02.mnogo-tv.by:8000/play/EURO_NEWS
+#EXTINF:0,Первый канал Россия
+http://s02.mnogo-tv.by:8000/play/1CH_RUS
+#EXTINF:0,Мульт
+http://s02.mnogo-tv.by:8000/play/MULT
+#EXTINF:0,Союзмультфильм
+http://s02.mnogo-tv.by:8000/play/SOUZMULT
+#EXTINF:0,ТНТ 4
+http://s02.mnogo-tv.by:8000/play/TNT_4
+#EXTINF:0,Пятница
+http://s02.mnogo-tv.by:8000/play/Piaytnica_tv
+#EXTINF:0,НТВ HD
+http://s02.mnogo-tv.by:8000/play/NTV_RUS
+#EXTINF:0,ID XTRA
+http://s02.mnogo-tv.by:8000/play/IDXTRA
+#EXTINF:0,Viasat History
+http://s02.mnogo-tv.by:8000/play/Viasat_History
+#EXTINF:0,охота и рыбалка
+http://s02.mnogo-tv.by:8000/play/OHOTA
+#EXTINF:0,Комедия
+http://s02.mnogo-tv.by:8000/play/KOMEDIJA
+#EXTINF:0,Матч Планета
+http://s02.mnogo-tv.by:8000/play/MS
+#EXTINF:0,SETANTA SPORT
+http://s02.mnogo-tv.by:8000/play/SETANTASPORT
+#EXTINF:0,TV 3 Россия
+http://s02.mnogo-tv.by:8000/play/TV3_RUS
+#EXTINF:0,Беларусь 3
+http://s02.mnogo-tv.by:8000/play/BELARUS3
+#EXTINF:0,Мужское кино
+http://s02.mnogo-tv.by:8000/play/M_KINO
+#EXTINF:0,Animal Planet
+http://s02.mnogo-tv.by:8000/play/AnimalPlanet
+#EXTINF:0,Перец international
+http://s02.mnogo-tv.by:8000/play/PEREC_INT
+#EXTINF:0,Сарафан тв
+http://s02.mnogo-tv.by:8000/play/SARAFAN
+#EXTINF:0,Бокс
+http://s02.mnogo-tv.by:8000/play/BOKSTV
+#EXTINF:0,TV 3 Minsk
+http://s02.mnogo-tv.by:8000/play/TV3_BY
+#EXTINF:0,1 Мистический
+http://s02.mnogo-tv.by:8000/play/1MISTICHESKIY
+#EXTINF:0,НТВ Беларусь
+http://s02.mnogo-tv.by:8000/play/NTV_BEL
+#EXTINF:0,ТВЦ
+http://s02.mnogo-tv.by:8000/play/TVC
+#EXTINF:0,Сказка HD
+http://s02.mnogo-tv.by:8000/play/CH_SKAZKAHD
+#EXTINF:0,KHL TV
+http://s02.mnogo-tv.by:8000/play/KHL_TV
+#EXTINF:0,Sony SCIFI
+http://s02.mnogo-tv.by:8000/play/SCI_FI
+#EXTINF:0,Матч арена
+http://s02.mnogo-tv.by:8000/play/ARENA
+#EXTINF:0,Россия 24
+http://s02.mnogo-tv.by:8000/play/RUS_24
+#EXTINF:0,Матч футбол 3
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
+#EXTINF:0,РТР Беларусь
+http://s02.mnogo-tv.by:8000/play/RTR_BEL
+#EXTINF:0,Animal Famili HD
+http://s02.mnogo-tv.by:8000/play/FAMALI_HD720
+#EXTINF:0,Матч Боец
+http://s02.mnogo-tv.by:8000/play/BOEC
+#EXTINF:0,Звезда
+http://s02.mnogo-tv.by:8000/play/ZVEZDA_TV
+#EXTINF:0,TV 1000
+http://s02.mnogo-tv.by:8000/play/TV_1000
+#EXTINF:0,Ретро FM
+http://s02.mnogo-tv.by:8000/play/Retro_FM
+#EXTINF:0,Россия 1
+http://s02.mnogo-tv.by:8000/play/RUS1
+#EXTINF:0,JIMJAM
+http://s02.mnogo-tv.by:8000/play/JIMJAM
+#EXTINF:0,Инфо-TV
+http://s02.mnogo-tv.by:8000/play/InfoTV
+#EXTINF:0,Матч футбол
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
+#EXTINF:0,History
+http://s02.mnogo-tv.by:8000/play/History
+#EXTINF:0,НСТ
+http://s02.mnogo-tv.by:8000/play/NSTV
+#EXTINF:0,Рыжий
+http://s02.mnogo-tv.by:8000/play/rijiitv
+#EXTINF:0,Радио Ваня
+http://s02.mnogo-tv.by:8000/play/Radio_Vany
+#EXTINF:0,Дом кино
+http://s02.mnogo-tv.by:8000/play/DOM_KINO
