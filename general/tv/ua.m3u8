@@ -1,3 +1,60 @@
 #EXTM3U
 #EXTINF:-1,Мега
 http://109.87.244.224:8888/udp/238.0.0.34:1234
+
+#EXTINF:-1,New Channel
+http://46.149.185.219:8781
+#EXTINF:-1,New Channel
+http://46.149.185.219:8782
+#EXTINF:-1,New Channel
+http://46.149.185.219:8783
+#EXTINF:-1,New Channel
+http://46.149.185.219:8784
+#EXTINF:-1,New Channel
+http://46.149.185.219:8785
+#EXTINF:-1,New Channel
+http://46.149.185.219:8786
+#EXTINF:-1,New Channel
+http://46.149.185.219:8787
+#EXTINF:-1,New Channel
+http://46.149.185.219:8788
+#EXTINF:-1,New Channel
+http://46.149.185.219:8789
+#EXTINF:-1,New Channel
+http://46.149.185.219:8790
+#EXTINF:-1,New Channel
+http://46.149.185.219:8791
+#EXTINF:-1,New Channel
+http://46.149.185.219:8792
+#EXTINF:-1,New Channel
+http://46.149.185.219:8793
+#EXTINF:-1,New Channel
+http://46.149.185.219:8794
+#EXTINF:-1,New Channel
+http://46.149.185.219:8795
+#EXTINF:-1,New Channel
+http://46.149.185.219:8796
+#EXTINF:-1,New Channel
+http://46.149.185.219:8797
+#EXTINF:-1,New Channel
+http://46.149.185.219:8798
+#EXTINF:-1,New Channel
+http://46.149.185.219:8799
+#EXTINF:-1,New Channel
+http://46.149.185.219:8800
+#EXTINF:-1,New Channel
+http://46.149.185.219:8801
+#EXTINF:-1,New Channel
+http://46.149.185.219:8802
+#EXTINF:-1,New Channel
+http://46.149.185.219:8803
+#EXTINF:-1,New Channel
+http://46.149.185.219:8804
+#EXTINF:-1,New Channel
+http://46.149.185.219:8805
+#EXTINF:-1,New Channel
+http://46.149.185.219:8806
+#EXTINF:-1,New Channel
+http://46.149.185.219:8807
+#EXTINF:-1,New Channel
+http://46.149.185.219:8808
