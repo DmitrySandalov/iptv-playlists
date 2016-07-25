@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTINF:-1,Bloomberg
 http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I/master.m3u8?geo_country=US
+#EXTINF:-1,Bloomberg US
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
+#EXTINF:-1,Bloomberg ASIA
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M18K.m3u8
+#EXTINF:-1,Bloomberg UK
+http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
+
 
 #EXTINF:-1,ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
@@ -29,13 +36,3 @@ http://163.172.214.251:8000/play/US-BRAVO-HD
 http://163.172.214.251:8000/play/AMCHD
 #EXTINF:-1,CBS-HD
 http://163.172.214.251:8000/play/CBS-HD
-
-http://80.80.160.168/live/1/live.m3u8
-http://80.80.160.168/live/2/live.m3u8
-http://80.80.160.168/live/3/live.m3u8
-http://80.80.160.168/live/4/live.m3u8
-http://80.80.160.168/live/5/live.m3u8
-http://80.80.160.168/live/6/live.m3u8
-http://80.80.160.168/live/7/live.m3u8
-http://80.80.160.168/live/8/live.m3u8
-http://80.80.160.168/live/9/live.m3u8
