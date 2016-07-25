@@ -10,7 +10,7 @@ http://ic3.101.ru:8000/v11_1
 #EXTINF:-1,Chocolate Radio
 http://choco.hostingradio.ru:10010/fm128
 #EXTINF:-1,DFM
-http://dfm.fmtuner.ru/
+http://icecast.radiodfm.cdnvideo.ru/dfm.mp3
 #EXTINF:-1,Euronews Radio
 http://euronews-05.ice.infomaniak.ch/euronews-05.aac
 #EXTINF:-1,Imagine Radio (64kb)
@@ -44,9 +44,9 @@ http://ep32.streamr.ru/
 #EXTINF:-1,Европа Плюс (64kb)
 http://ep64.streamr.ru/
 #EXTINF:-1,Европа Плюс (128kb)
-http://ep128.hostingradio.ru:8030/ep128
+http://ep128.streamr.ru/
 #EXTINF:-1,Европа Плюс (256kb)
-http://ep256.hostingradio.ru:8052/europaplus256.mp3
+http://ep256.streamr.ru/
 #EXTINF:-1,Детское радио
 http://ic3.101.ru:8000/v14_1
 #EXTINF:-1,Кекс FM (64kb)
@@ -88,7 +88,7 @@ http://radio764.streamr.ru/
 #EXTINF:-1,Радио 7 на семи холмах (128kb)
 http://radio7128.streamr.ru/
 #EXTINF:-1,Радио MAXIMUM
-http://maximum.fmtuner.ru/
+http://icecast.radiomaximum.cdnvideo.ru/maximum.mp3
 #EXTINF:-1,Радио ENERGY
 http://ic3.101.ru:8000/v1_1
 #EXTINF:-1,Радио Classic
@@ -114,7 +114,7 @@ http://radiovera128.streamr.ru/
 #EXTINF:-1,Радио Дача
 http://stream.radiodacha.ru:9000/14_dacha_24
 #EXTINF:-1,Радио Зенит
-http://stream.radiozenit.ru:8000/mp3.m3u
+http://ic3.101.ru:8000/v15_1
 #EXTINF:-1,Радио для двоих
 http://icecast.piktv.cdnvideo.ru/rdd128
 #EXTINF:-1,Радио Культура
@@ -122,7 +122,7 @@ http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:-1,Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1,Радио Монте-Карло
-http://mc.fmtuner.ru/
+http://icecast.radiomontecarlo.cdnvideo.ru/mc.mp3
 #EXTINF:-1,Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1,Радио Рекорд
@@ -140,19 +140,19 @@ http://retroserver.streamr.ru:8043/retro32
 #EXTINF:-1,Ретро FM (64kb)
 http://retroserver.streamr.ru:8043/retro64
 #EXTINF:-1,Ретро FM (128kb)
-http://retroserver.streamr.ru:8043/retro128
+http://retro128.streamr.ru/
 #EXTINF:-1,Ретро FM (256kb)
-http://retroserver.streamr.ru:8043/retro256.mp3
+http://retro256.streamr.ru/
 #EXTINF:-1,Русская служба новостей
-http://audio.rusnovosti.ru:8000/rsn.mp3
+https://audio.life.ru/rsn.mp3
 #EXTINF:-1,Русское Радио
-http://rr.fmtuner.ru
+http://icecast.russkoeradio.cdnvideo.ru/rr.mp3
 #EXTINF:-1,Спорт FM
 http://sportfm.hostingradio.ru:8050/sportfm128.mp3
 #EXTINF:-1,Такси FM
 http://stream2.n340.com/13_taxi_24
 #EXTINF:-1,Хит Fm
-http://hit.fmtuner.ru/
+http://icecast.radiohitfm.cdnvideo.ru/hit.mp3
 #EXTINF:-1,Юмор FM
 http://ic3.101.ru:8000/v5_1
 #EXTINF:-1,Эхо Москвы
