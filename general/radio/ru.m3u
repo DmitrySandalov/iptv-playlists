@@ -113,6 +113,12 @@ https://audio.baltika.fm/baltika.mp3
 http://radiovera128.streamr.ru/
 #EXTINF:-1,Радио Дача
 http://stream.radiodacha.ru:9000/14_dacha_24
+#EXTINF:-1,Радио Звезда (64kb)
+http://stream.radiozvezda.ru:8088/zvezda_64
+#EXTINF:-1,Радио Звезда (96kb)
+http://stream.radiozvezda.ru:8088/zvezda_96
+#EXTINF:-1,Радио Звезда (128kb)
+http://stream.radiozvezda.ru:8088/zvezda_128
 #EXTINF:-1,Радио Зенит
 http://ic3.101.ru:8000/v15_1
 #EXTINF:-1,Радио для двоих
