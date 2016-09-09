@@ -468,149 +468,78 @@ http://195.78.244.206:9898/udp/239.0.3.108:1234
 http://195.78.244.206:9898/udp/233.191.134.102:1234
 #EXTINF:-1,Футбол 2 (Украина)
 http://195.78.244.206:9898/udp/233.191.134.105:1234
-#EXTINF:-1 group-title="UBRhttps"
-http://195.78.244.206:9898/udp/239.0.3.165:1234
-#EXTINF:-1 group-title="SEThttps"
+#EXTINF:-1,SET
 http://195.78.244.206:9898/udp/224.11.15.21:1234
-#EXTINF:-1 group-title="Chasse&Pechehttps"
-http://195.78.244.206:9898/udp/224.11.2.71:1234
 
-#EXTINF:-1,SUPER RTL A
-http://84.22.46.188/play/a013
-#EXTINF:-1,RTL †Passion‡
-http://84.22.46.188/play/a01q
-#EXTINF:-1,HRT-TV4
-http://84.22.46.188/play/a01i
-#EXTINF:-1,Sky †Cinema‡
-http://84.22.46.188/play/a01n
-#EXTINF:-1,Smile of a Child
-http://84.22.46.188/play/a00s
-#EXTINF:-1,FEN TV
-http://84.22.46.188/play/a00y
-#EXTINF:-1,SLO-TV3
-http://84.22.46.188/play/a01l
-#EXTINF:-1,HRT-TV1
-http://84.22.46.188/play/a01f
-#EXTINF:-1,EuroNews
-http://84.22.46.188/play/a015
-#EXTINF:-1,ProSieben Austria
-http://84.22.46.188/play/a00j
-#EXTINF:-1,Rai 4
-http://84.22.46.188/play/a00m
-#EXTINF:-1,Rai News 24
-http://84.22.46.188/play/a00n
-#EXTINF:-1,Hayat Music
-http://84.22.46.188/play/a00t
-#EXTINF:-1,Planeta Folk
-http://84.22.46.188/play/a00l
-#EXTINF:-1,Rai 3
-http://84.22.46.188/play/a01a
-#EXTINF:-1,Balkanika
-http://84.22.46.188/play/a00x
-#EXTINF:-1,SLO-TV2
-http://84.22.46.188/play/a01k
-#EXTINF:-1,RTL
-http://84.22.46.188/play/a016
-#EXTINF:-1,The Voice
-http://84.22.46.188/play/a00i
-#EXTINF:-1,VOX
-http://84.22.46.188/play/a018
-#EXTINF:-1,SHOW TURK
-http://84.22.46.188/play/a00z
-#EXTINF:-1,Al Jazeera English
-http://84.22.46.188/play/a011
-#EXTINF:-1,Music Channel
-http://84.22.46.188/play/a014
-#EXTINF:-1,Rai 1
-http://84.22.46.188/play/a01b
-#EXTINF:-1, TV8 HD
-http://84.22.46.188/play/a012
-#EXTINF:-1,Eurosport 1 Deutschland
-http://84.22.46.188/play/a01c
-#EXTINF:-1,Fen Folk TV
-http://84.22.46.188/play/a00k
-#EXTINF:-1,Rai 2
-http://84.22.46.188/play/a019
-#EXTINF:-1,Al Jazeera English HD
-http://84.22.46.188/play/a010
-#EXTINF:-1,HRT-TV3
-http://84.22.46.188/play/a01h
-#EXTINF:-1,RTL2 Austria
-http://84.22.46.188/play/a017
-
-#EXTINF:-1,Carousel
+#EXTINF:-1,Карусель
 http://195.64.201.94:18089
 #EXTINF:-1,Animal Family HD
 http://195.64.201.94:18101
-#EXTINF:-1,Muz TV (2)
+#EXTINF:-1,Муз ТВ
 http://195.64.201.94:18144
-#EXTINF:-1,Teledom HD
+#EXTINF:-1,Теледом HD
 http://195.64.201.94:18148
 #EXTINF:-1,Eureka HD
 http://195.64.201.94:18162
-#EXTINF:-1,Rain HD
+#EXTINF:-1,Дождь HD
 http://195.64.201.94:18172
-#EXTINF:-1,OTP
+#EXTINF:-1,ОТР
 http://195.64.201.94:18190
-#EXTINF:-1,Channel Four + Friday
+#EXTINF:-1,4 канал + Пятница
 http://195.64.201.94:18224
 #EXTINF:-1,TV point
 http://195.64.201.94:18225
-#EXTINF:-1,Auburn
+#EXTINF:-1,Рыжий
 http://195.64.201.94:18235
-#EXTINF:-1,Country
+#EXTINF:-1,Загородный
 http://195.64.201.94:18236
-#EXTINF:-1,ZooTV
+#EXTINF:-1,Zoo TV
 http://195.64.201.94:18237
-#EXTINF:-1,Film Screening
+#EXTINF:-1,КиноПоказ
 http://195.64.201.94:18238
-#EXTINF:-1,Hunter and Fisher
+#EXTINF:-1,Охотник и рыболов
 http://195.64.201.94:18239
-#EXTINF:-1,Hunter and Fisher HD
+#EXTINF:-1,Охотник и рыболов HD
 http://195.64.201.94:18240
-#EXTINF:-1,TV trip
+#EXTINF:-1,Телепутешествия
 http://195.64.201.94:18241
-#EXTINF:-1,HD TV trip
+#EXTINF:-1,Teletravel HD
 http://195.64.201.94:18242
-#EXTINF:-1,Tonus TV
+#EXTINF:-1,Тонус ТВ
 http://195.64.201.94:18243
-#EXTINF:-1,Nightclub
+#EXTINF:-1,Ночной клуб
 http://195.64.201.94:18248
-#EXTINF:-1,TNT (2)
+#EXTINF:-1,ТНТ
 http://195.64.201.94:18252
-#EXTINF:-1,Ren TV (2)
+#EXTINF:-1,РенТВ
 http://195.64.201.94:18253
-#EXTINF:-1,CTC (+2)
+#EXTINF:-1,СТС
 http://195.64.201.94:18254
-#EXTINF:-1,the first channel (2)
+#EXTINF:-1,Первый канал
 http://195.64.201.94:18002
-#EXTINF:-1,Russia-1 (2)
+#EXTINF:-1,Россия-1
 http://195.64.201.94:18003
-#EXTINF:-1,TV Center (2)
+#EXTINF:-1,ТВЦ
 http://195.64.201.94:18004
-#EXTINF:-1,NTA (2)
+#EXTINF:-1,НТВ
 http://195.64.201.94:18005
-#EXTINF:-1,41 channel
+#EXTINF:-1,41 канал
 http://195.64.201.94:18014
-#EXTINF:-1,TV3 (2)
+#EXTINF:-1,ТВ3
 http://195.64.201.94:18017
-#EXTINF:-1,5 channel (2)
+#EXTINF:-1,5 канал
 http://195.64.201.94:18038
-#EXTINF:-1,star (2)
+#EXTINF:-1,Звезда
 http://195.64.201.94:18045
 #EXTINF:-1,Eurosport 2
 http://195.64.201.94:18064
-#EXTINF:-1,World
+#EXTINF:-1,МИР
 http://195.64.201.94:18065
 #EXTINF:-1,Eurosport 1
 http://195.64.201.94:18079
-#EXTINF:-1,Clear
+#EXTINF:-1,Дождь
 http://195.64.201.94:18087
 
-#EXTINF:-1,Трофей HD
-http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?session=5488c6087e1ea6.57082302
-#EXTINF:-1,Мульт
-http://50.7.136.34:80/MJHG8k7GU657GJYt-1673687787897473/stream1387.m3u8
 #EXTINF:-1,Мульт
 http://hlstv.kuz.211.ru/239.211.211.6/stream.m3u8
 #EXTINF:-1,Детский
@@ -619,372 +548,3 @@ http://persik.by/stream/2887/384/246.m3u8
 http://77.88.196.138:8081/dumska/dumska-abr/dumska/dumska/chunks.m3u8
 #EXTINF:-1,Южная Волна HD
 http://77.88.196.144:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
-
-#EXTINF:0,TB 1000 Русское кино
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/101/index.m3u8
-#EXTINF:0,Ностальгия
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/102/index.m3u8
-#EXTINF:0,СТС Love
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/103/index.m3u8
-#EXTINF:0,ТНТ4
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/104/index.m3u8
-#EXTINF:0,STV
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/105/index.m3u8
-#EXTINF:0,РБК-ТВ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/106/index.m3u8
-#EXTINF:0,Матч! Наш спорт
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/107/index.m3u8
-#EXTINF:0,Tiji TV
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/108/index.m3u8
-#EXTINF:0,Gulli
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/109/index.m3u8
-#EXTINF:0,Sony Sci-Fi
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/110/index.m3u8
-#EXTINF:0,История
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/111/index.m3u8
-#EXTINF:0,Пятый Канал
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/112/index.m3u8
-#EXTINF:0,Мир
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/113/index.m3u8
-#EXTINF:0,Nick Jr
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/114/index.m3u8
-#EXTINF:0,Европа Плюс
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/115/index.m3u8
-#EXTINF:0,МУЗ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/116/index.m3u8
-#EXTINF:0,Моя Планета
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/117/index.m3u8
-#EXTINF:0,Наука 2.0
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/118/index.m3u8
-#EXTINF:0,Outdoor Channel
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/119/index.m3u8
-#EXTINF:0,RUSONG TV
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/120/index.m3u8
-#EXTINF:0,Сов. Секретно
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/121/index.m3u8
-#EXTINF:0,НТВ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/501/index.m3u8
-#EXTINF:0,ТНТ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/502/index.m3u8
-#EXTINF:0,Пятница
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/503/index.m3u8
-#EXTINF:0,Телеканал «Россия»
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/504/index.m3u8
-#EXTINF:0,Россия-Культура
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/505/index.m3u8
-#EXTINF:0,СТС
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/506/index.m3u8
-#EXTINF:0,Россия-24
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/507/index.m3u8
-#EXTINF:0,ТВ3
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/508/index.m3u8
-#EXTINF:0,КИНО ПЛЮС
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/509/index.m3u8
-#EXTINF:0,Bridge TV
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/122/index.m3u8
-#EXTINF:0,Матч! Планета
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/123/index.m3u8
-#EXTINF:0,Матч! Футбол 1
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/124/index.m3u8
-#EXTINF:0,Премьера
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/125/index.m3u8
-#EXTINF:0,Наше Кино
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/126/index.m3u8
-#EXTINF:0,Первый канал
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/127/index.m3u8
-#EXTINF:0,РЕН ТВ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/128/index.m3u8
-#EXTINF:0,Первый HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/204/index.m3u8
-#EXTINF:0,TV1000 Premium HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/202/index.m3u8
-#EXTINF:0,TV 1000 Action
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/131/index.m3u8
-#EXTINF:0,ит
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/516/index.m3u8
-#EXTINF:0,Наш футбол
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/531/index.m3u8
-#EXTINF:0,Nickelodeon
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/541/index.m3u8
-#EXTINF:0,Disney
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/524/index.m3u8
-#EXTINF:0,Amedia 2
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/510/index.m3u8
-#EXTINF:0,24 ДОК
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/512/index.m3u8
-#EXTINF:0,Че
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/513/index.m3u8
-#EXTINF:0,Домашний
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/514/index.m3u8
-#EXTINF:0,ТНВ-Планета
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/515/index.m3u8
-#EXTINF:0,Наше новое кино
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/517/index.m3u8
-#EXTINF:0,Life News
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/518/index.m3u8
-#EXTINF:0,KHL
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/519/index.m3u8
-#EXTINF:0,ТВЦ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/520/index.m3u8
-#EXTINF:0,Матч! Футбол 3
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/522/index.m3u8
-#EXTINF:0,Москва 24
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/523/index.m3u8
-#EXTINF:0,TV XXI
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/525/index.m3u8
-#EXTINF:0,Эгоист
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/526/index.m3u8
-#EXTINF:0,Playboy
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/527/index.m3u8
-#EXTINF:0,Телеканал Да Винчи
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/537/index.m3u8
-#EXTINF:0,Авто 24
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/538/index.m3u8
-#EXTINF:0,Eurosport 2
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/539/index.m3u8
-#EXTINF:0,Bloomberg
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/540/index.m3u8
-#EXTINF:0,CBS Drama
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/542/index.m3u8
-#EXTINF:0,Детский мир
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/543/index.m3u8
-#EXTINF:0,НТВ Мир
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/544/index.m3u8
-#EXTINF:0,BBC World News
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/545/index.m3u8
-#EXTINF:0,Матч! Арена
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/528/index.m3u8
-#EXTINF:0,Матч! Игра
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/529/index.m3u8
-#EXTINF:0,Матч! Футбол 2
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/530/index.m3u8
-#EXTINF:0,Ю ТВ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/534/index.m3u8
-#EXTINF:0,Матч ТВ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/535/index.m3u8
-#EXTINF:0,Nat Geo Wild
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/133/index.m3u8
-#EXTINF:0,nat geographic
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/134/index.m3u8
-#EXTINF:0,DTX
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/135/index.m3u8
-#EXTINF:0,Discovery Science
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/136/index.m3u8
-#EXTINF:0,Animal Planet
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/137/index.m3u8
-#EXTINF:0,Jim Jam
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/138/index.m3u8
-#EXTINF:0,ID Xtra
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/139/index.m3u8
-#EXTINF:0,Discovery Channel
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/140/index.m3u8
-#EXTINF:0,Eurosport 1
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/141/index.m3u8
-#EXTINF:0,MTV
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/142/index.m3u8
-#EXTINF:0,Cartoon Network
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/143/index.m3u8
-#EXTINF:0,Extreme Sports
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/144/index.m3u8
-#EXTINF:0,Комедия
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/145/index.m3u8
-#EXTINF:0,Индия ТВ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/146/index.m3u8
-#EXTINF:0,Русская Ночь
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/147/index.m3u8
-#EXTINF:0,Много ТВ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/148/index.m3u8
-#EXTINF:0,Матч! Боец
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/150/index.m3u8
-#EXTINF:0,Авто Плюс
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/151/index.m3u8
-#EXTINF:0,Кухня ТВ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/152/index.m3u8
-#EXTINF:0,Հ1
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/601/index.m3u8
-#EXTINF:0,Դար 21
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/602/index.m3u8
-#EXTINF:0,Հ2
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/603/index.m3u8
-#EXTINF:0,Շանթ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/604/index.m3u8
-#EXTINF:0,Արմենիա Tv HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/605/index.m3u8
-#EXTINF:0,Կենտրոն
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/606/index.m3u8
-#EXTINF:0,Երկիր մեդիա
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/608/index.m3u8
-#EXTINF:0,ATV
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/609/index.m3u8
-#EXTINF:0,Ար
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/610/index.m3u8
-#EXTINF:0,Արմնյուզ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/611/index.m3u8
-#EXTINF:0,Հ3
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/612/index.m3u8
-#EXTINF:0,Շողակաթ
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/613/index.m3u8
-#EXTINF:0,РТРПланета
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/546/index.m3u8
-#EXTINF:0,Русский Иллюзион
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/547/index.m3u8
-#EXTINF:0,Иллюзион +
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/548/index.m3u8
-#EXTINF:0,Еврокино
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/549/index.m3u8
-#EXTINF:0,Fox Russia
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/550/index.m3u8
-#EXTINF:0,Время
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/552/index.m3u8
-#EXTINF:0,Fox Life
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/553/index.m3u8
-#EXTINF:0,Արմենիա Tv
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/614/index.m3u8
-#EXTINF:0,MTV Hits
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/153/index.m3u8
-#EXTINF:0,Дом Кино
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/154/index.m3u8
-#EXTINF:0,Музыка
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/155/index.m3u8
-#EXTINF:0,Карусель
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/156/index.m3u8
-#EXTINF:0,Paramount Comedy Russia
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/157/index.m3u8
-#EXTINF:0,Домашние Животные
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/158/index.m3u8
-#EXTINF:0,Охота и Рыбалка
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/159/index.m3u8
-#EXTINF:0,MTV.AM HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/616/index.m3u8
-#EXTINF:0,MTV.AM
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/617/index.m3u8
-#EXTINF:0,Amedia 1
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/554/index.m3u8
-#EXTINF:0,Amedia Premium HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/555/index.m3u8
-#EXTINF:0,TV1000 Comedy HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/200/index.m3u8
-#EXTINF:0,TV1000 Megahit HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/201/index.m3u8
-#EXTINF:0,Viasat Nature/History HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/203/index.m3u8
-#EXTINF:0,Россия HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/205/index.m3u8
-#EXTINF:0,Надежда
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/656/index.m3u8
-#EXTINF:0,PanArmenian
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/618/index.m3u8
-#EXTINF:0,Ararat
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/620/index.m3u8
-#EXTINF:0,Матч! Футбол 3 HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/206/index.m3u8
-#EXTINF:0,AMEDIA HIT
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/556/index.m3u8
-#EXTINF:0,Матч! Арена HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/207/index.m3u8
-#EXTINF:0,Viasat Sport HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/208/index.m3u8
-#EXTINF:0,TV 1000
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/132/index.m3u8
-#EXTINF:0,Viasat Sport
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/160/index.m3u8
-#EXTINF:0,Viasat Nature
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/161/index.m3u8
-#EXTINF:0,Viasat History
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/162/index.m3u8
-#EXTINF:0,Viasat Explore
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/163/index.m3u8
-#EXTINF:0,5 канал (Украина)
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/532/index.m3u8
-#EXTINF:0,HTH
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/533/index.m3u8
-#EXTINF:0,Ani
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/129/index.m3u8
-#EXTINF:0,Travel Channel
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/130/index.m3u8
-#EXTINF:0,Мужское кино
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/164/index.m3u8
-#EXTINF:0,VH1 European
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/536/index.m3u8
-#EXTINF:0,AMC
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/557/index.m3u8
-#EXTINF:0,MTV Dance
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/558/index.m3u8
-#EXTINF:0,SONY TB
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/559/index.m3u8
-#EXTINF:0,MGM HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/209/index.m3u8
-#EXTINF:0,RTG HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/210/index.m3u8
-#EXTINF:0,Матч! Футбол 2 HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/211/index.m3u8
-#EXTINF:0,Russian extreme TV
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/700/index.m3u8
-#EXTINF:0,Первый образовательный
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/701/index.m3u8
-#EXTINF:0,2X2
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/702/index.m3u8
-#EXTINF:0,OCEAN-TV
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/703/index.m3u8
-#EXTINF:0,Мама
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/704/index.m3u8
-#EXTINF:0,ОТ�
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/705/index.m3u8
-#EXTINF:0,CBS Reality
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/706/index.m3u8
-#EXTINF:0,Mezzo
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/707/index.m3u8
-#EXTINF:0,Sony Turbo
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/708/index.m3u8
-#EXTINF:0,Матч ТВ HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/212/index.m3u8
-#EXTINF:0,НТВ HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/213/index.m3u8
-#EXTINF:0,Конный Мир HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/214/index.m3u8
-#EXTINF:0,Телеканал КХЛ HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/215/index.m3u8
-#EXTINF:0,E!
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/901/index.m3u8
-#EXTINF:0,Food Network
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/902/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/216/index.m3u8
-#EXTINF:0,Mezzo Live HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/217/index.m3u8
-#EXTINF:0,Animal Planet HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/218/index.m3u8
-#EXTINF:0,Fox HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/219/index.m3u8
-#EXTINF:0,Наш футбол HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/220/index.m3u8
-#EXTINF:0,MTV Live HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/221/index.m3u8
-#EXTINF:0,Матч! Футбол 1 HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/222/index.m3u8
-#EXTINF:0,Nickelodeon HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/223/index.m3u8
-#EXTINF:0,HD Кино
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/224/index.m3u8
-#EXTINF:0,Матч! Игра HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/225/index.m3u8
-#EXTINF:0,HD Life
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/226/index.m3u8
-#EXTINF:0,Discovery Channel HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/227/index.m3u8
-#EXTINF:0,Eurosport 1 HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/228/index.m3u8
-#EXTINF:0,Amedia Premium HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/229/index.m3u8
-#EXTINF:0,National Geographic HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/230/index.m3u8
-#EXTINF:0,History HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/231/index.m3u8
-#EXTINF:0,TLC HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/232/index.m3u8
-#EXTINF:0,Travel Channel HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/233/index.m3u8
-#EXTINF:0,Trace Sport Stars HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/234/index.m3u8
-#EXTINF:0,Trace Urban HD
-http://AlexRyzhenko.iptvspy.ru/iptv/VD9UP7QMBHGRE4/235/index.m3u8

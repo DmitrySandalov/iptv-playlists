@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BFMTV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
-#EXTINF:-1,Arte
-http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
 #EXTINF:-1,KTO
 http://mobile.ktotv.com/live/KTO_Layer1.m3u8
 #EXTINF:-1,WEO
@@ -29,3 +27,5 @@ http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 #EXTINF:-1,Mens Up TV
 http://videos.mensup.fr/mensuptv/live/01.m3u8
+#EXTINF:-1,Chasse&Peche
+http://195.78.244.206:9898/udp/224.11.2.71:1234

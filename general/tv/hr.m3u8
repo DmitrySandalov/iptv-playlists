@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1,HRT-TV1
+http://84.22.46.188/play/a01f
+#EXTINF:-1,HRT-TV3
+http://84.22.46.188/play/a01h
+#EXTINF:-1,HRT-TV4
+http://84.22.46.188/play/a01i

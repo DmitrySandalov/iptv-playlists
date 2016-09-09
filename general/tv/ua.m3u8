@@ -2,59 +2,62 @@
 #EXTINF:-1,Мега
 http://109.87.244.224:8888/udp/238.0.0.34:1234
 
-#EXTINF:-1,New Channel
+#EXTINF:-1,1+1
 http://46.149.185.219:8781
-#EXTINF:-1,New Channel
+#EXTINF:-1,Плюсплюс
 http://46.149.185.219:8782
-#EXTINF:-1,New Channel
+#EXTINF:-1,ICTV
 http://46.149.185.219:8783
-#EXTINF:-1,New Channel
+#EXTINF:-1,К2
 http://46.149.185.219:8784
-#EXTINF:-1,New Channel
+#EXTINF:-1,M2
 http://46.149.185.219:8785
-#EXTINF:-1,New Channel
+#EXTINF:-1,24 канад
 http://46.149.185.219:8786
-#EXTINF:-1,New Channel
+#EXTINF:-1,СТБ
 http://46.149.185.219:8787
-#EXTINF:-1,New Channel
+#EXTINF:-1,Iнтер
 http://46.149.185.219:8788
-#EXTINF:-1,New Channel
+#EXTINF:-1,Перший канал
 http://46.149.185.219:8789
-#EXTINF:-1,New Channel
+#EXTINF:-1,МаляткоTV
 http://46.149.185.219:8790
-#EXTINF:-1,New Channel
+#EXTINF:-1,Пиксель TV
 http://46.149.185.219:8791
-#EXTINF:-1,New Channel
+#EXTINF:-1,K1
 http://46.149.185.219:8792
-#EXTINF:-1,New Channel
+#EXTINF:-1,M1
 http://46.149.185.219:8793
-#EXTINF:-1,New Channel
+#EXTINF:-1,Мега
 http://46.149.185.219:8794
-#EXTINF:-1,New Channel
+#EXTINF:-1,Новый канал
 http://46.149.185.219:8795
-#EXTINF:-1,New Channel
+#EXTINF:-1,НТН
 http://46.149.185.219:8796
-#EXTINF:-1,New Channel
+#EXTINF:-1,QTV
 http://46.149.185.219:8797
-#EXTINF:-1,New Channel
+#EXTINF:-1,Zik
 http://46.149.185.219:8798
-#EXTINF:-1,New Channel
+#EXTINF:-1,Zoom
 http://46.149.185.219:8799
-#EXTINF:-1,New Channel
+#EXTINF:-1,Дача
 http://46.149.185.219:8800
-#EXTINF:-1,New Channel
+#EXTINF:-1,News One
 http://46.149.185.219:8801
-#EXTINF:-1,New Channel
+#EXTINF:-1,ЧП.Info
 http://46.149.185.219:8802
-#EXTINF:-1,New Channel
+#EXTINF:-1,Трофей
 http://46.149.185.219:8803
-#EXTINF:-1,New Channel
+#EXTINF:-1,Lale
 http://46.149.185.219:8804
-#EXTINF:-1,New Channel
+#EXTINF:-1,Сонце
 http://46.149.185.219:8805
-#EXTINF:-1,New Channel
+#EXTINF:-1,112 Украина
 http://46.149.185.219:8806
-#EXTINF:-1,New Channel
+#EXTINF:-1,ТСН
 http://46.149.185.219:8807
-#EXTINF:-1,New Channel
+#EXTINF:-1,Еко ТВ
 http://46.149.185.219:8808
+
+#EXTINF:-1,Gnews
+http://195.78.244.206:9898/udp/239.0.3.165:1234

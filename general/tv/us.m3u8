@@ -8,6 +8,8 @@ http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M18K.m3u8
 #EXTINF:-1,Bloomberg UK
 http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
 
+#EXTINF:-1,Smile of a Child
+http://84.22.46.188/play/a00s
 
 #EXTINF:-1,ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
@@ -36,3 +38,10 @@ http://163.172.214.251:8000/play/US-BRAVO-HD
 http://163.172.214.251:8000/play/AMCHD
 #EXTINF:-1,CBS-HD
 http://163.172.214.251:8000/play/CBS-HD
+
+#EXTINF:-1,EuroNews
+http://84.22.46.188/play/a015
+#EXTINF:-1,Al Jazeera English
+http://84.22.46.188/play/a011
+#EXTINF:-1,Al Jazeera English HD
+http://84.22.46.188/play/a010
