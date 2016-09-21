@@ -16,13 +16,16 @@
 # ---------------------------------------------------------------------------
 usage() { echo "Usage: $0 [-f <string>]" 1>&2; exit 1; }
 
-while getopts ":f:hs" opt; do
+while getopts ":f:hsn" opt; do
     case $opt in
         h)
             usage
             ;;
         s)
             simple=1
+            ;;
+        n)
+            simple_no_colors=1
             ;;
         f)
             file=${OPTARG}
@@ -42,7 +45,11 @@ echo_green() {
     if [[ -z "$simple" ]]; then
         echo -e '\e[1;32m'[${1}] ${2}'\e[0m'
     else
-        echo -e '\e[1;32m'${2}'\e[0m'
+        if [[ -z "$simple_no_colors" ]]; then
+            echo -e '\e[1;32m'${2}'\e[0m'
+        else
+            echo ${2}
+        fi
     fi
 }
 
@@ -56,7 +63,11 @@ echo_yellow() {
     if [[ -z "$simple" ]]; then
         echo -e '\e[1;33m'[${1}] ${2}'\n'${3}'\e[0m'
     else
-        echo -e '\e[1;33m'${3}'\e[0m'
+        if [[ -z "$simple_no_colors" ]]; then
+            echo -e '\e[1;33m'${3}'\e[0m'
+        else
+            echo ${3}
+        fi
     fi
 }
 
