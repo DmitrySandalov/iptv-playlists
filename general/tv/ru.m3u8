@@ -1,13 +1,20 @@
 #EXTM3U
-#EXTINF:-1,Lifenews
+#EXTINF:-1,Lifenews (360p)
 http://tv.life.ru/lifetv/360p/index.m3u8
-#EXTINF:-1,Lifenews
+#EXTINF:-1,Lifenews (720p)
 http://tv.life.ru/lifetv/720p/index.m3u8
+
 #EXTINF:-1,Россия 24
 http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?auth=vh&cast_id=21
-
 #EXTINF:-1,Москва-24
 http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&cast_id=1661
+
+#EXTINF:-1,Россия 1
+http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r1_rr.smil/playlist.m3u8?auth=vh&cast_id=2961
+#EXTINF:-1,Россия Культура
+http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_russiak_rr.smil/playlist.m3u8?auth=vh&cast_id=19201
+#EXTINF:-1,РТР-Планета
+http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_rtrp_rr.smil/playlist.m3u8?auth=vh&cast_id=4941
 
 #EXTINF:-1,Матч! Футбол 1
 http://195.78.244.206:9898/udp/239.0.3.91:1234
@@ -384,3 +391,84 @@ http://hlstv.kuz.211.ru/239.211.211.6/stream.m3u8
 http://77.88.196.138:8081/dumska/dumska-abr/dumska/dumska/chunks.m3u8
 #EXTINF:-1,Южная Волна HD
 http://77.88.196.144:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
+
+#EXTINF:-1,24 Техно
+http://hls.novotelecom.ru/streaming/24techno/tvrec/playlist.m3u8
+#EXTINF:-1,2×2
+http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8
+#EXTINF:-1,49 Канал – Novosibirsk
+http://hls.novotelecom.ru/streaming/49kanal/tvrec/playlist.m3u8
+#EXTINF:-1,5 Канал
+http://hls.novotelecom.ru/streaming/5kanal/tvrec/playlist.m3u8
+#EXTINF:-1,A-One
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+#EXTINF:-1,CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+#EXTINF:-1,Euronews
+http://hls.novotelecom.ru/streaming/euronews/tvrec/playlist.m3u8
+#EXTINF:-1,Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,Fox
+http://hls.novotelecom.ru/streaming/fox/tvrec/playlist.m3u8
+#EXTINF:-1,FoxLife
+http://hls.novotelecom.ru/streaming/foxlife/tvrec/playlist.m3u8
+#EXTINF:-1,Musicbox
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8
+#EXTINF:-1,Real Scary
+http://hls.novotelecom.ru/streaming/nstv/tvrec/playlist.m3u8
+#EXTINF:-1,Russiatoday
+http://hls.novotelecom.ru/streaming/russiatoday/tvrec/playlist.m3u8
+#EXTINF:-1,TV XXI
+http://hls.novotelecom.ru/streaming/tv21/tvrec/playlist.m3u8
+#EXTINF:-1,Детский
+http://hls.novotelecom.ru/streaming/forkids/tvrec/playlist.m3u8
+#EXTINF:-1,Звезда
+http://hls.novotelecom.ru/streaming/jv/tvrec/playlist.m3u8
+#EXTINF:-1,Карусель
+http://hls.novotelecom.ru/streaming/karusel/tvrec/playlist.m3u8
+#EXTINF:-1,Культура
+http://hls.novotelecom.ru/streaming/kultura/tvrec/playlist.m3u8
+#EXTINF:-1,Мать и Дитя
+http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8
+#EXTINF:-1,Мир24
+http://hls.novotelecom.ru/streaming/mir24/tvrec/playlist.m3u8
+#EXTINF:-1,НТВ
+http://hls.novotelecom.ru/streaming/ntv/tvrec/playlist.m3u8
+#EXTINF:-1,ОТС
+http://hls.novotelecom.ru/streaming/ots/tvrec/playlist.m3u8
+#EXTINF:-1,Первый
+http://hls.novotelecom.ru/streaming/1kanal/tvrec/playlist.m3u8
+#EXTINF:-1,Первый Образовательный
+http://hls.novotelecom.ru/streaming/1_obraz/tvrec/playlist.m3u8
+#EXTINF:-1,Перец
+http://hls.novotelecom.ru/streaming/perec/tvrec/playlist.m3u8
+#EXTINF:-1,Пятница
+http://hls.novotelecom.ru/streaming/friday/tvrec/playlist.m3u8
+#EXTINF:-1,РБК
+http://hls.novotelecom.ru/streaming/rbk/tvrec/playlist.m3u8
+#EXTINF:-1,РенТВ
+http://hls.novotelecom.ru/streaming/rentv/tvrec/playlist.m3u8
+#EXTINF:-1,Россия1
+http://hls.novotelecom.ru/streaming/rossija/tvrec/playlist.m3u8
+#EXTINF:-1,Россия2
+http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
+#EXTINF:-1,Россия24
+http://hls.novotelecom.ru/streaming/vesti/tvrec/playlist.m3u8
+#EXTINF:-1,Русский бестселлер
+http://hls.novotelecom.ru/streaming/russia_best/tvrec/playlist.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://hls.novotelecom.ru/streaming/russian_illusion/tvrec/playlist.m3u8
+#EXTINF:-1,Русский Роман
+http://hls.novotelecom.ru/streaming/russian_roman/tvrec/playlist.m3u8
+#EXTINF:-1,Спорт1
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:-1,СТС
+http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8
+#EXTINF:-1,ТВ3
+http://hls.novotelecom.ru/streaming/tv3/tvrec/playlist.m3u8
+#EXTINF:-1,ТВЦ
+http://hls.novotelecom.ru/streaming/tvc/tvrec/playlist.m3u8
+#EXTINF:-1,Ю-ТВ
+http://hls.novotelecom.ru/streaming/utv/tvrec/playlist.m3u8
