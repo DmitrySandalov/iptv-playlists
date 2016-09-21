@@ -1,7 +1,7 @@
 #!/bin/bash
 # ---------------------------------------------------------------------------
 # check-streams.sh checks that streams are valid, not 404
-# Copyright (C) 2014, Dmitry Sandalov <dmitry@sandalov.org>
+# Copyright (C) 2014, 2016, Dmitry Sandalov <dmitry@sandalov.org>
 # 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -14,7 +14,7 @@
 # GNU General Public License at <http://www.gnu.org/licenses/> for
 # more details.
 # ---------------------------------------------------------------------------
-usage() { echo "Usage: $0 [-f <sting>]" 1>&2; exit 1; }
+usage() { echo "Usage: $0 [-f <string>]" 1>&2; exit 1; }
 
 while getopts ":f:h" opt; do
     case $opt in
