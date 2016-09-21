@@ -16,10 +16,13 @@
 # ---------------------------------------------------------------------------
 usage() { echo "Usage: $0 [-f <string>]" 1>&2; exit 1; }
 
-while getopts ":f:h" opt; do
+while getopts ":f:hs" opt; do
     case $opt in
         h)
             usage
+            ;;
+        s)
+            simple=1
             ;;
         f)
             file=${OPTARG}
@@ -36,15 +39,25 @@ while getopts ":f:h" opt; do
 done
 
 echo_green() {
-    echo -e '\e[1;32m'${1}'\e[0m'
+    if [[ -z "$simple" ]]; then
+        echo -e '\e[1;32m'[${1}] ${2}'\e[0m'
+    else
+        echo -e '\e[1;32m'${2}'\e[0m'
+    fi
 }
 
 echo_red() {
-    echo -e '\e[1;31m'${1}'\e[0m'
+    if [[ -z "$simple" ]]; then
+        echo -e '\e[1;31m'[${1}] ${2}'\e[0m'
+    fi
 }
 
 echo_yellow() {
-    echo -e '\e[1;33m'${1}'\e[0m'
+    if [[ -z "$simple" ]]; then
+        echo -e '\e[1;33m'[${1}] ${2}'\n'${3}'\e[0m'
+    else
+        echo -e '\e[1;33m'${3}'\e[0m'
+    fi
 }
 
 check_file() {
@@ -58,10 +71,9 @@ check_file() {
 check_stream() {
     resp_code=$(curl -m 5 -s -I -o /dev/null -w "%{http_code}" $1)
     if [ $resp_code = '200' ]; then
-        echo_green "[$resp_code] $1"
+        echo_green $resp_code $1
     elif [ $resp_code = '301' ] || [ $resp_code = '302' ]; then
-        echo_yellow "[$resp_code] $(check_stream_302 $1)"
-        echo_yellow {$1}
+        echo_yellow $resp_code $(check_stream_302 $1) $1
     else
         check_stream_get $1
     fi
@@ -75,9 +87,9 @@ check_stream_get() {
     response=$(curl -m 3 -o /dev/null -sL -w "%{http_code} %{url_effective}\\n" $1)
     resp_code=`echo $response | awk '{print $1}'`
     if [ $resp_code = '200' ]; then
-        echo_green "[$resp_code] $1"
+        echo_green $resp_code $1
     else
-        echo_red "[$resp_code] $1"
+        echo_red $resp_code $1
     fi
 }
 
