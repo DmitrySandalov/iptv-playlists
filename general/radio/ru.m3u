@@ -20,7 +20,7 @@ http://93.189.147.116:8000/full_stream128.mp3
 #EXTINF:-1,Imagine Radio (256kb)
 http://93.189.147.116:8000/full_stream256.mp3
 #EXTINF:-1,Love Radio
-http://stream2.loveradio.ru/12_love_24
+#http://stream2.loveradio.ru/12_love_24
 #EXTINF:-1,Relax FM
 http://ic3.101.ru:8000/v13_1
 #EXTINF:-1,Rock FM
@@ -72,7 +72,7 @@ http://nashe64.streamr.ru
 #EXTINF:-1,НАШЕ Радио (128kb)
 http://nashe128.streamr.ru
 #EXTINF:-1,Нева FM
-http://radio.master.dj:8000/Neva.fm
+#http://radio.master.dj:8000/Neva.fm
 #EXTINF:-1,Орфей (64kb)
 http://icecast.orpheus.cdnvideo.ru/orpheus_64
 #EXTINF:-1,Орфей (128kb)
