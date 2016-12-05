@@ -161,5 +161,9 @@ http://stream2.n340.com/13_taxi_24
 http://icecast.radiohitfm.cdnvideo.ru/hit.mp3
 #EXTINF:-1,Юмор FM
 http://ic3.101.ru:8000/v5_1
+#EXTINF:-1,Эльдорадио (64kb)
+http://eldoradio64.streamr.ru/
+#EXTINF:-1,Эльдорадио (128kb)
+http://eldoradio128.streamr.ru/
 #EXTINF:-1,Эхо Москвы
 http://81.19.85.197/echo.mp3
