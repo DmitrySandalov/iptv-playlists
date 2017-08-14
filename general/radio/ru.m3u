@@ -105,8 +105,10 @@ http://cfm.jazzandclassic.ru:14536/pcstream.mp3
 http://jazz128.streamr.ru/
 #EXTINF:-1,Радио Romantika
 http://ic3.101.ru:8000/v4_1
-#EXTINF:-1,Радио Sputnik
-http://icecast.rian.cdnvideo.ru/rian.voicerus
+#EXTINF:-1,Радио Sputnik (64kb)
+http://online.sputnikfm.ru:8000/sputnik
+#EXTINF:-1,Радио Sputnik (128kb)
+http://online.sputnikfm.ru:8000/sputnik_mp3
 #EXTINF:-1,Радио Балтика
 https://audio.baltika.fm/baltika.mp3
 #EXTINF:-1,Радио Вера
@@ -122,7 +124,7 @@ http://stream.radiozvezda.ru:8088/zvezda_128
 #EXTINF:-1,Радио Зенит
 http://ic3.101.ru:8000/v15_1
 #EXTINF:-1,Радио для двоих
-http://icecast.piktv.cdnvideo.ru/rdd128
+https://radiom10.gcdn.co/piktv_radio/rdd128_aac/playlist.m3u8
 #EXTINF:-1,Радио Культура
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:-1,Радио Маяк
@@ -138,7 +140,7 @@ http://chanson.hostingradio.ru:8041/chanson64.mp3
 #EXTINF:-1,Радио Шансон (128kb)
 http://chanson.hostingradio.ru:8041/chanson128.mp3
 #EXTINF:-1,Радио "Серебрянный Дождь"
-http://radiosilver.corbina.net:8000/silver128a.mp3
+http://213.59.4.27:8000/silver128.mp3
 #EXTINF:-1,Радио Эрмитаж
 http://91.190.117.131:8000/live
 #EXTINF:-1,Ретро FM (32kb)
@@ -149,8 +151,8 @@ http://retroserver.streamr.ru:8043/retro64
 http://retro128.streamr.ru/
 #EXTINF:-1,Ретро FM (256kb)
 http://retro256.streamr.ru/
-#EXTINF:-1,Русская служба новостей
-https://audio.life.ru/rsn.mp3
+#EXTINF:-1,Life звук
+https://audio.life.ru/life.mp3
 #EXTINF:-1,Русское Радио
 http://icecast.russkoeradio.cdnvideo.ru/rr.mp3
 #EXTINF:-1,Спорт FM
