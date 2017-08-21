@@ -20,9 +20,19 @@ http://93.189.147.116:8000/full_stream128.mp3
 #EXTINF:-1,Imagine Radio (256kb)
 http://93.189.147.116:8000/full_stream256.mp3
 #EXTINF:-1,Love Radio
-#http://stream2.loveradio.ru/12_love_24
+http://stream.loveradio.ru/12_love_24
 #EXTINF:-1,Relax FM
 http://ic3.101.ru:8000/v13_1
+#EXTINF:-1,Relax FM (Gold)
+http://101.ru/api/channel/getServers/266/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Relax FM (Jazz)
+http://101.ru/api/channel/getServers/264/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Relax FM (Latino)
+http://101.ru/api/channel/getServers/265/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Relax FM (Life)
+http://101.ru/api/channel/getServers/267/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Relax FM (Nature)
+http://101.ru/api/channel/getServers/263/channel/MP3/128/dataFormat/mobile
 #EXTINF:-1,Rock FM
 http://nashe2.hostingradio.ru/rock-128.mp3
 #EXTINF:-1,Авторадио
