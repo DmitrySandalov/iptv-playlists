@@ -145,6 +145,8 @@ http://icecast.radiomontecarlo.cdnvideo.ru/mc.mp3
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1,Радио Рекорд
 http://air.radiorecord.ru:8101/rr_320
+#EXTINF:-1,Радио Свобода
+https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04
 #EXTINF:-1,Радио Шансон (64kb)
 http://chanson.hostingradio.ru:8041/chanson64.mp3
 #EXTINF:-1,Радио Шансон (128kb)
