@@ -8,9 +8,23 @@ http://bfm.hostingradio.ru:8004/fm
 #EXTINF:-1,Comedy Radio
 http://ic3.101.ru:8000/v11_1
 #EXTINF:-1,Chocolate Radio
-http://choco.hostingradio.ru:10010/fm128
+http://choco.hostingradio.ru:10010/fm
 #EXTINF:-1,DFM
-http://icecast.radiodfm.cdnvideo.ru/dfm.mp3
+https://rmgradio.gcdn.co/dfm_m.aac
+#EXTINF:-1,DFM Club
+http://icecast.radiodfm.cdnvideo.ru/st01.mp3
+#EXTINF:-1,DFM Deep
+http://icecast.radiodfm.cdnvideo.ru/st24.mp3
+#EXTINF:-1,DFM Russian Dance
+http://icecast.radiodfm.cdnvideo.ru/st03.mp3
+#EXTINF:-1,DFM Trap
+http://icecast.radiodfm.cdnvideo.ru/st07.mp3
+#EXTINF:-1,DFM Дискач 90-х
+http://icecast.radiodfm.cdnvideo.ru/st18.mp3
+#EXTINF:-1,DFM Динамит
+http://icecast.radiodfm.cdnvideo.ru/st16.mp3
+#EXTINF:-1,DFM Спокойной ночи малыши!
+http://icecast.radiodfm.cdnvideo.ru/st05.mp3
 #EXTINF:-1,Euronews Radio
 http://euronews-05.ice.infomaniak.ch/euronews-05.aac
 #EXTINF:-1,Imagine Radio (64kb)
@@ -20,7 +34,17 @@ http://93.189.147.116:8000/full_stream128.mp3
 #EXTINF:-1,Imagine Radio (256kb)
 http://93.189.147.116:8000/full_stream256.mp3
 #EXTINF:-1,Love Radio
-http://stream.loveradio.ru/12_love_24
+http://stream.loveradio.ru/12_love_24?type=.aac&UID=1A479C57ACD09EEE3F2CBC9845C7643B
+#EXTINF:-1,Maximum
+https://rmgradio.gcdn.co/max_m.aac
+#EXTINF:-1,Maximum '90
+http://rmgradio.gcdn.co/station-ru/st15.mp3/icecast.audio
+#EXTINF:-1,Maximum DM
+http://rmgradio.gcdn.co/station-ru/st23.mp3/icecast.audio
+#EXTINF:-1,Maximum FM Cafe
+http://rmgradio.gcdn.co/station-ru/st36.mp3/icecast.audio
+#EXTINF:-1,Maximum Rock Hits
+http://rmgradio.gcdn.co/station-ru/st25.mp3/icecast.audio
 #EXTINF:-1,Relax FM
 http://ic3.101.ru:8000/v13_1
 #EXTINF:-1,Relax FM (Gold)
@@ -46,7 +70,7 @@ http://video.govoritmoskva.ru:8880/ru32.mp3
 #EXTINF:-1,Говорит Москва (64kb)
 http://video.govoritmoskva.ru:8880/ru64.mp3
 #EXTINF:-1,Говорит Москва (96kb)
-http://video.govoritmoskva.ru:8880/rufm_m.mp3
+http://govoritmoskva.ru/radio/rufm.mp3
 #EXTINF:-1,Дорожное Радио
 http://dor2server.streamr.ru:8000/dor_64_no
 #EXTINF:-1,Европа Плюс (32kb)
@@ -76,13 +100,11 @@ http://kpradio.hostingradio.ru:8000/russia.radiokp64.mp3
 #EXTINF:-1,Комсомольская правда (128kb)
 http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
 #EXTINF:-1,Мегаполис FM
-http://stream04.media.rambler.ru/megapolis128.mp3
+http://icecast-megapolisfm.cdnvideo.ru/radio.mp3
 #EXTINF:-1,НАШЕ Радио (64kb)
 http://nashe64.streamr.ru
 #EXTINF:-1,НАШЕ Радио (128kb)
 http://nashe128.streamr.ru
-#EXTINF:-1,Нева FM
-#http://radio.master.dj:8000/Neva.fm
 #EXTINF:-1,Орфей (64kb)
 http://icecast.orpheus.cdnvideo.ru/orpheus_64
 #EXTINF:-1,Орфей (128kb)
@@ -90,15 +112,15 @@ http://icecast.orpheus.cdnvideo.ru/orpheus_128
 #EXTINF:-1,Орфей (192kb)
 http://icecast.orpheus.cdnvideo.ru/orpheus_192
 #EXTINF:-1,Питер FM
-http://icecast.piktv.cdnvideo.ru/piterfm
+https://radiom10.gcdn.co/radiopiterfm_radio/piterfm_aac/playlist.m3u8
+#EXTINF:-1,Питер FM Rock
+http://radiocast.muz-lab.ru/VTJT.mp3
 #EXTINF:-1,Радио 7 на семи холмах (32kb)
 http://radio732.streamr.ru/
 #EXTINF:-1,Радио 7 на семи холмах (64kb)
 http://radio764.streamr.ru/
 #EXTINF:-1,Радио 7 на семи холмах (128kb)
 http://radio7128.streamr.ru/
-#EXTINF:-1,Радио MAXIMUM
-http://icecast.radiomaximum.cdnvideo.ru/maximum.mp3
 #EXTINF:-1,Радио ENERGY
 http://ic3.101.ru:8000/v1_1
 #EXTINF:-1,Радио Classic
@@ -119,8 +141,6 @@ http://ic3.101.ru:8000/v4_1
 http://online.sputnikfm.ru:8000/sputnik
 #EXTINF:-1,Радио Sputnik (128kb)
 http://online.sputnikfm.ru:8000/sputnik_mp3
-#EXTINF:-1,Радио Балтика
-https://audio.baltika.fm/baltika.mp3
 #EXTINF:-1,Радио Вера
 http://radiovera128.streamr.ru/
 #EXTINF:-1,Радио Дача
@@ -140,7 +160,7 @@ http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:-1,Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1,Радио Монте-Карло
-http://icecast.radiomontecarlo.cdnvideo.ru/mc.mp3
+https://rmgradio.gcdn.co/mc_m.aac
 #EXTINF:-1,Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1,Радио Рекорд
@@ -154,7 +174,8 @@ http://chanson.hostingradio.ru:8041/chanson128.mp3
 #EXTINF:-1,Радио "Серебрянный Дождь"
 http://213.59.4.27:8000/silver128.mp3
 #EXTINF:-1,Радио Эрмитаж
-http://91.190.117.131:8000/live
+#http://91.190.117.131:8000/live
+http://91.190.127.185:8000/live_test
 #EXTINF:-1,Ретро FM (32kb)
 http://retroserver.streamr.ru:8043/retro32
 #EXTINF:-1,Ретро FM (64kb)
@@ -163,21 +184,19 @@ http://retroserver.streamr.ru:8043/retro64
 http://retro128.streamr.ru/
 #EXTINF:-1,Ретро FM (256kb)
 http://retro256.streamr.ru/
-#EXTINF:-1,Life звук
-https://audio.life.ru/life.mp3
 #EXTINF:-1,Русское Радио
-http://icecast.russkoeradio.cdnvideo.ru/rr.mp3
+http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.aac
 #EXTINF:-1,Спорт FM
 http://sportfm.hostingradio.ru:8050/sportfm128.mp3
 #EXTINF:-1,Такси FM
 http://stream2.n340.com/13_taxi_24
 #EXTINF:-1,Хит Fm
-http://icecast.radiohitfm.cdnvideo.ru/hit.mp3
+https://rmgradio.gcdn.co/hit_m.aac
 #EXTINF:-1,Юмор FM
-http://ic3.101.ru:8000/v5_1
+http://ic7.101.ru:8000/a102
 #EXTINF:-1,Эльдорадио (64kb)
 http://eldoradio64.streamr.ru/
 #EXTINF:-1,Эльдорадио (128kb)
 http://eldoradio128.streamr.ru/
 #EXTINF:-1,Эхо Москвы
-http://81.19.85.197/echo.mp3
+http://radio-echo.melodix.ru:8080/echo.mp3
