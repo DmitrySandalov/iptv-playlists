@@ -159,6 +159,8 @@ https://radiom10.gcdn.co/piktv_radio/rdd128_aac/playlist.m3u8
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:-1,Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1,Радио Мир
+http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128
 #EXTINF:-1,Радио Монте-Карло
 https://rmgradio.gcdn.co/mc_m.aac
 #EXTINF:-1,Радио России
