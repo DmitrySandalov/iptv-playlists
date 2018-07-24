@@ -27,6 +27,8 @@ http://icecast.radiodfm.cdnvideo.ru/st16.mp3
 http://icecast.radiodfm.cdnvideo.ru/st05.mp3
 #EXTINF:-1,Euronews Radio
 http://euronews-05.ice.infomaniak.ch/euronews-05.aac
+#EXTINF:-1,Heart FM
+http://gtrk22.ru:8000/HFMhigh
 #EXTINF:-1,Imagine Radio (64kb)
 http://93.189.147.116:8000/full_stream64.mp3
 #EXTINF:-1,Imagine Radio (128kb)
@@ -57,6 +59,8 @@ http://101.ru/api/channel/getServers/265/channel/MP3/128/dataFormat/mobile
 http://101.ru/api/channel/getServers/267/channel/MP3/128/dataFormat/mobile
 #EXTINF:-1,Relax FM (Nature)
 http://101.ru/api/channel/getServers/263/channel/MP3/128/dataFormat/mobile
+#EXTINF:-1,Rock Arsenal
+https://online.rockarsenal.ru/rockarsenal_aacplus
 #EXTINF:-1,Rock FM
 http://nashe2.hostingradio.ru/rock-128.mp3
 #EXTINF:-1,Авторадио
@@ -100,7 +104,9 @@ http://kpradio.hostingradio.ru:8000/russia.radiokp64.mp3
 #EXTINF:-1,Комсомольская правда (128kb)
 http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
 #EXTINF:-1,Мегаполис FM
-http://icecast-megapolisfm.cdnvideo.ru/radio.mp3
+http://109.239.129.43:8010/megapolis-48.aac
+#EXTINF:-1,Милицейская волна
+http://radiomv.hostingradio.ru/radiomv128.mp3
 #EXTINF:-1,НАШЕ Радио (64kb)
 http://nashe64.streamr.ru
 #EXTINF:-1,НАШЕ Радио (128kb)
@@ -112,7 +118,7 @@ http://icecast.orpheus.cdnvideo.ru/orpheus_128
 #EXTINF:-1,Орфей (192kb)
 http://icecast.orpheus.cdnvideo.ru/orpheus_192
 #EXTINF:-1,Питер FM
-https://radiom10.gcdn.co/radiopiterfm_radio/piterfm_aac/playlist.m3u8
+https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8
 #EXTINF:-1,Питер FM Rock
 http://radiocast.muz-lab.ru/VTJT.mp3
 #EXTINF:-1,Радио 7 на семи холмах (32kb)
@@ -154,7 +160,7 @@ http://stream.radiozvezda.ru:8088/zvezda_128
 #EXTINF:-1,Радио Зенит
 http://ic3.101.ru:8000/v15_1
 #EXTINF:-1,Радио для двоих
-https://radiom10.gcdn.co/piktv_radio/rdd128_aac/playlist.m3u8
+https://icecast-radiofortwo.cdnvideo.ru/radiofortwo
 #EXTINF:-1,Радио Культура
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:-1,Радио Маяк
@@ -163,21 +169,34 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128
 #EXTINF:-1,Радио Монте-Карло
 https://rmgradio.gcdn.co/mc_m.aac
+#EXTINF:-1,Радио Петербург
+https://www.5-tv.ru/radio.mp3
 #EXTINF:-1,Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1,Радио Рекорд
 http://air.radiorecord.ru:8101/rr_320
 #EXTINF:-1,Радио Свобода
 https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04
+#EXTINF:-1,Радио Теос
+http://stream.teos.fm:8004/mp3_hq
 #EXTINF:-1,Радио Шансон (64kb)
 http://chanson.hostingradio.ru:8041/chanson64.mp3
 #EXTINF:-1,Радио Шансон (128kb)
 http://chanson.hostingradio.ru:8041/chanson128.mp3
-#EXTINF:-1,Радио "Серебрянный Дождь"
-http://213.59.4.27:8000/silver128.mp3
 #EXTINF:-1,Радио Эрмитаж
-#http://91.190.117.131:8000/live
 http://91.190.127.185:8000/live_test
+#EXTINF:-1,Радио Юность (32kb)
+http://icecast-vgtrk.cdnvideo.ru/unost_aac_32kbps
+#EXTINF:-1,Радио Юность (64kb)
+http://icecast-vgtrk.cdnvideo.ru/unost_mp3_64kbps
+#EXTINF:-1,Радио Юность (128kb)
+http://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
+#EXTINF:-1,Радио Юность (192kb)
+http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
+#EXTINF:-1,Радонеж (32 kb)
+http://icecast.radonezh.cdnvideo.ru:8000/rad
+#EXTINF:-1,Радонеж (128 kb)
+http://icecast.radonezh.cdnvideo.ru:8000/rad128
 #EXTINF:-1,Ретро FM (32kb)
 http://retroserver.streamr.ru:8043/retro32
 #EXTINF:-1,Ретро FM (64kb)
@@ -188,6 +207,8 @@ http://retro128.streamr.ru/
 http://retro256.streamr.ru/
 #EXTINF:-1,Русское Радио
 http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.aac
+#EXTINF:-1,Серебрянный Дождь
+http://213.59.4.27:8000/silver128.mp3
 #EXTINF:-1,Спорт FM
 http://sportfm.hostingradio.ru:8050/sportfm128.mp3
 #EXTINF:-1,Такси FM
