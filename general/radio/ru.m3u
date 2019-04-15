@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,101.RU - Lullaby
-http://ic2.101.ru:8000/c8_1
+http://ic2.101.ru:8000/a95
 #EXTINF:-1,BEST FM
 http://nashe2.hostingradio.ru/best-128.mp3
 #EXTINF:-1,Business FM
@@ -10,43 +10,49 @@ http://ic3.101.ru:8000/v11_1
 #EXTINF:-1,Chocolate Radio
 http://choco.hostingradio.ru:10010/fm
 #EXTINF:-1,DFM
-https://rmgradio.gcdn.co/dfm_m.aac
+https://dfm.hostingradio.ru/dfm96.aacp
+#EXTINF:-1,DFM На рэпчике
+https://dfm-nrp.hostingradio.ru/nrp96.aacp
 #EXTINF:-1,DFM Club
-http://icecast.radiodfm.cdnvideo.ru/st01.mp3
+https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp
 #EXTINF:-1,DFM Deep
-http://icecast.radiodfm.cdnvideo.ru/st24.mp3
+https://dfm-dfmdeep.hostingradio.ru/dfmdeep96.aacp
 #EXTINF:-1,DFM Russian Dance
-http://icecast.radiodfm.cdnvideo.ru/st03.mp3
+https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp
 #EXTINF:-1,DFM Trap
-http://icecast.radiodfm.cdnvideo.ru/st07.mp3
+https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp
 #EXTINF:-1,DFM Дискач 90-х
-http://icecast.radiodfm.cdnvideo.ru/st18.mp3
-#EXTINF:-1,DFM Динамит
-http://icecast.radiodfm.cdnvideo.ru/st16.mp3
+https://dfm-disc90.hostingradio.ru/disc9096.aacp
 #EXTINF:-1,DFM Спокойной ночи малыши!
-http://icecast.radiodfm.cdnvideo.ru/st05.mp3
+https://dfm-spoknochi.hostingradio.ru/spoknochi96.aacp
 #EXTINF:-1,Euronews Radio
 http://euronews-05.ice.infomaniak.ch/euronews-05.aac
 #EXTINF:-1,Heart FM
 http://gtrk22.ru:8000/HFMhigh
 #EXTINF:-1,Imagine Radio (64kb)
-http://93.189.147.116:8000/full_stream64.mp3
+http://212.116.112.147:8000/full_stream64.mp3
 #EXTINF:-1,Imagine Radio (128kb)
-http://93.189.147.116:8000/full_stream128.mp3
+http://212.116.112.147:8000/full_stream128.mp3
 #EXTINF:-1,Imagine Radio (256kb)
-http://93.189.147.116:8000/full_stream256.mp3
+http://212.116.112.147:8000/full_stream256.mp3
+#EXTINF:-1,Imagine Radio Classic rock (64kb)
+http://212.116.112.147:8000/light_stream64.mp3
+#EXTINF:-1,Imagine Radio Classic rock (128kb)
+http://212.116.112.147:8000/light_stream128.mp3
+#EXTINF:-1,Imagine Radio Classic rock (256kb)
+http://212.116.112.147:8000/light_stream256.mp3
 #EXTINF:-1,Love Radio
 http://stream.loveradio.ru/12_love_24?type=.aac&UID=1A479C57ACD09EEE3F2CBC9845C7643B
 #EXTINF:-1,Maximum
-https://rmgradio.gcdn.co/max_m.aac
+https://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1,Maximum Metallica
+https://metallica.hostingradio.ru/metallica96.aacp
+#EXTINF:-1,Maximum Depeche Mode
+https://depechemode.hostingradio.ru/depechemode96.aacp
 #EXTINF:-1,Maximum '90
-http://rmgradio.gcdn.co/station-ru/st15.mp3/icecast.audio
-#EXTINF:-1,Maximum DM
-http://rmgradio.gcdn.co/station-ru/st23.mp3/icecast.audio
-#EXTINF:-1,Maximum FM Cafe
-http://rmgradio.gcdn.co/station-ru/st36.mp3/icecast.audio
+https://maximum90.hostingradio.ru/maximum9096.aacp
 #EXTINF:-1,Maximum Rock Hits
-http://rmgradio.gcdn.co/station-ru/st25.mp3/icecast.audio
+https://rockhits.hostingradio.ru/rockhits96.aacp
 #EXTINF:-1,Relax FM
 http://ic3.101.ru:8000/v13_1
 #EXTINF:-1,Relax FM (Gold)
@@ -63,6 +69,8 @@ http://101.ru/api/channel/getServers/263/channel/MP3/128/dataFormat/mobile
 https://online.rockarsenal.ru/rockarsenal_aacplus
 #EXTINF:-1,Rock FM
 http://nashe2.hostingradio.ru/rock-128.mp3
+#EXTINF:-1,Studio 21
+http://icecast-studio21.cdnvideo.ru/S21_2
 #EXTINF:-1,Авторадио
 http://ic3.101.ru:8000/v3_1
 #EXTINF:-1,Вести FM (64kb)
@@ -111,12 +119,14 @@ http://radiomv.hostingradio.ru/radiomv128.mp3
 http://nashe64.streamr.ru
 #EXTINF:-1,НАШЕ Радио (128kb)
 http://nashe128.streamr.ru
+#EXTINF:-1,Новое Радио
+http://icecast.newradio.cdnvideo.ru/newradio3
 #EXTINF:-1,Орфей (64kb)
-http://icecast.orpheus.cdnvideo.ru/orpheus_64
+http://orfeyfm.hostingradio.ru:8034/orfeyfm64.mp3
 #EXTINF:-1,Орфей (128kb)
-http://icecast.orpheus.cdnvideo.ru/orpheus_128
+http://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
 #EXTINF:-1,Орфей (192kb)
-http://icecast.orpheus.cdnvideo.ru/orpheus_192
+http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
 #EXTINF:-1,Питер FM
 https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8
 #EXTINF:-1,Питер FM Rock
@@ -168,7 +178,23 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1,Радио Мир
 http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128
 #EXTINF:-1,Радио Монте-Карло
-https://rmgradio.gcdn.co/mc_m.aac
+https://montecarlo.hostingradio.ru/montecarlo96.aacp
+#EXTINF:-1,Радио Монте-Карло France
+https://mc-france.hostingradio.ru/france96.aacp
+#EXTINF:-1,Радио Монте-Карло Gold
+https://mc-mcgold.hostingradio.ru/mcgold96.aacp
+#EXTINF:-1,Радио Монте-Карло Песни о любви
+https://mc-pesniolyubvi.hostingradio.ru/pesniolyubvi96.aacp
+#EXTINF:-1,Радио Монте-Карло Bossa nova
+https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
+#EXTINF:-1,Радио Монте-Карло Sweet
+https://mc-mcsweet.hostingradio.ru/mcsweet96.aacp
+#EXTINF:-1,Радио Монте-Карло Nights
+https://mc-mcnight.hostingradio.ru/mcnight96.aacp
+#EXTINF:-1,Радио Монте-Карло Музыка без слов
+https://mc-muzykabezslov.hostingradio.ru/muzykabezslov96.aacp
+#EXTINF:-1,Радио Монте-Карло Мировое кино
+https://mc-mirkino.hostingradio.ru/mirkino96.aacp
 #EXTINF:-1,Радио Петербург
 https://www.5-tv.ru/radio.mp3
 #EXTINF:-1,Радио России
@@ -206,15 +232,13 @@ http://retro128.streamr.ru/
 #EXTINF:-1,Ретро FM (256kb)
 http://retro256.streamr.ru/
 #EXTINF:-1,Русское Радио
-http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.aac
+https://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1,Серебрянный Дождь
 http://213.59.4.27:8000/silver128.mp3
-#EXTINF:-1,Спорт FM
-http://sportfm.hostingradio.ru:8050/sportfm128.mp3
 #EXTINF:-1,Такси FM
 http://stream2.n340.com/13_taxi_24
-#EXTINF:-1,Хит Fm
-https://rmgradio.gcdn.co/hit_m.aac
+#EXTINF:-1,Хит Фм
+https://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1,Юмор FM
 http://ic7.101.ru:8000/a102
 #EXTINF:-1,Эльдорадио (64kb)
