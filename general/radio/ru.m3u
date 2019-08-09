@@ -25,8 +25,6 @@ https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp
 https://dfm-disc90.hostingradio.ru/disc9096.aacp
 #EXTINF:-1,DFM Спокойной ночи малыши!
 https://dfm-spoknochi.hostingradio.ru/spoknochi96.aacp
-#EXTINF:-1,Euronews Radio
-http://euronews-05.ice.infomaniak.ch/euronews-05.aac
 #EXTINF:-1,Heart FM
 http://gtrk22.ru:8000/HFMhigh
 #EXTINF:-1,Imagine Radio (64kb)
@@ -131,12 +129,14 @@ http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
 https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8
 #EXTINF:-1,Питер FM Rock
 http://radiocast.muz-lab.ru/VTJT.mp3
-#EXTINF:-1,Радио 7 на семи холмах (32kb)
-http://radio732.streamr.ru/
-#EXTINF:-1,Радио 7 на семи холмах (64kb)
-http://radio764.streamr.ru/
-#EXTINF:-1,Радио 7 на семи холмах (128kb)
-http://radio7128.streamr.ru/
+#EXTINF:-1,Радио 7 на семи холмах
+https://hls-01-radio7.emgsound.ru/13/playlist.m3u8
+#EXTINF:-1,Радио 7 на семи холмах (Настроение любить)
+https://hls-01-radio7-love.emgsound.ru/8/playlist.m3u8
+#EXTINF:-1,Радио 7 на семи холмах (Настроение счастья)
+https://hls-01-radio7-happiness.emgsound.ru/10/128/playlist.m3u8
+#EXTINF:-1,Радио 7 на семи холмах (Наедине с музыкой)
+https://hls-01-radio7-alone.emgsound.ru/16/playlist.m3u8
 #EXTINF:-1,Радио ENERGY
 http://ic3.101.ru:8000/v1_1
 #EXTINF:-1,Радио Classic

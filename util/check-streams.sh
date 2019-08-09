@@ -61,7 +61,7 @@ echo_red() {
 
 echo_yellow() {
     if [[ -z "$simple" ]]; then
-        echo -e '\e[1;33m'[${1}] ${2}'\n'${3}'\e[0m'
+        echo -e '\e[1;33m'[${1}] ${2}'\e[0m'
     else
         if [[ -z "$simple_no_colors" ]]; then
             echo -e '\e[1;33m'${3}'\e[0m'
@@ -84,7 +84,9 @@ check_stream() {
     if [ $resp_code = '200' ]; then
         echo_green $resp_code $1
     elif [ $resp_code = '301' ] || [ $resp_code = '302' ]; then
-        echo_yellow $resp_code $(check_stream_302 $1) $1
+        url_effective=$(check_stream_302 $1)
+        echo_yellow $resp_code $1
+        check_stream $url_effective
     else
         check_stream_get $1
     fi
