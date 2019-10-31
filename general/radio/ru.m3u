@@ -109,6 +109,8 @@ http://kpradio.hostingradio.ru:8000/russia.radiokp32.mp3
 http://kpradio.hostingradio.ru:8000/russia.radiokp64.mp3
 #EXTINF:-1,Комсомольская правда (128kb)
 http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+#EXTINF:-1,Лёгкое радио
+http://lightradio.slamfm.ru:8000
 #EXTINF:-1,Мегаполис FM
 http://109.239.129.43:8010/megapolis-48.aac
 #EXTINF:-1,Милицейская волна
