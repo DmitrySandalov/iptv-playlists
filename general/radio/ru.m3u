@@ -159,6 +159,18 @@ http://ic3.101.ru:8000/v4_1
 http://online.sputnikfm.ru:8000/sputnik
 #EXTINF:-1,Радио Sputnik (128kb)
 http://online.sputnikfm.ru:8000/sputnik_mp3
+#EXTINF:-1,Радио Ваня
+https://icecast-radiovanya.cdnvideo.ru/radiovanya
+#EXTINF:-1,Радио Ваня (СПб)
+https://icecast-radiovanya.cdnvideo.ru/rv_spb
+#EXTINF:-1,Радио Ваня (Не лихие 90-е)
+https://icecast-radiovanya.cdnvideo.ru/rv_90
+#EXTINF:-1,Радио Ваня (Свежий бит)
+https://icecast-radiovanya.cdnvideo.ru/rv_hit
+#EXTINF:-1,Радио Ваня (Весёлый Dance)
+https://icecast-radiovanya.cdnvideo.ru/rv_Happy_Dance
+#EXTINF:-1,Радио Ваня (Олдскул)
+https://icecast-radiovanya.cdnvideo.ru/rv_retro
 #EXTINF:-1,Радио Вера
 http://radiovera128.streamr.ru/
 #EXTINF:-1,Радио Дача
