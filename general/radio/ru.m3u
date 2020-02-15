@@ -90,6 +90,12 @@ http://video.govoritmoskva.ru:8880/ru64.mp3
 http://govoritmoskva.ru/radio/rufm.mp3
 #EXTINF:-1,Дорожное Радио
 http://dor2server.streamr.ru:8000/dor_64_no
+#EXTINF:-1,Дорожное Радио (Ностальгия)
+https://hls-01-dorognoe-nostalgia.emgsound.ru/19/playlist.m3u8
+#EXTINF:-1,Дорожное Радио (Рок-клуб)
+https://hls-01-dorognoe-rock.emgsound.ru/18/playlist.m3u8
+#EXTINF:-1,Дорожное Радио (Танцпол)
+https://hls-01-dorognoedancerus.emgsound.ru/50/playlist.m3u8
 #EXTINF:-1,Европа Плюс (32kb)
 http://ep32.streamr.ru/
 #EXTINF:-1,Европа Плюс (64kb)
