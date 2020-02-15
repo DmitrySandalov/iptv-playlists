@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1,101.RU - Lullaby
-http://ic2.101.ru:8000/a95
+http://pub0201.101.ru:8000/stream/pro/aac/64/95
+#EXTINF:-1,101.RU - Chillout
+http://ic7.101.ru:8000/stream/trust/mp3/128/24
 #EXTINF:-1,BEST FM
 http://nashe2.hostingradio.ru/best-128.mp3
 #EXTINF:-1,Business FM
 http://bfm.hostingradio.ru:8004/fm
 #EXTINF:-1,Comedy Radio
-http://ic3.101.ru:8000/v11_1
+http://ic7.101.ru:8000/stream/air/aac/64/202
 #EXTINF:-1,Chocolate Radio
 http://choco.hostingradio.ru:10010/fm
 #EXTINF:-1,DFM
@@ -39,8 +41,13 @@ http://212.116.112.147:8000/light_stream64.mp3
 http://212.116.112.147:8000/light_stream128.mp3
 #EXTINF:-1,Imagine Radio Classic rock (256kb)
 http://212.116.112.147:8000/light_stream256.mp3
+#EXTINF:-1,Kids Hits
+http://kids-hits.ru/kidshits_mp3_192.m3u
+#EXTINF:-1,Kids Hits (Junior)
+http://kids-hits.ru/kids-hits-junior.m3u
 #EXTINF:-1,Love Radio
-http://stream.loveradio.ru/12_love_24?type=.aac&UID=1A479C57ACD09EEE3F2CBC9845C7643B
+# http://stream.loveradio.ru/12_love_24?type=.aac&UID=1A479C57ACD09EEE3F2CBC9845C7643B
+https://air2.volna.top/LoveRadio-MSK
 #EXTINF:-1,Maximum
 https://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1,Maximum Metallica
@@ -52,7 +59,7 @@ https://maximum90.hostingradio.ru/maximum9096.aacp
 #EXTINF:-1,Maximum Rock Hits
 https://rockhits.hostingradio.ru/rockhits96.aacp
 #EXTINF:-1,Relax FM
-http://ic3.101.ru:8000/v13_1
+http://ic7.101.ru:8000/stream/air/aac/64/200
 #EXTINF:-1,Relax FM (Gold)
 http://101.ru/api/channel/getServers/266/channel/MP3/128/dataFormat/mobile
 #EXTINF:-1,Relax FM (Jazz)
@@ -70,7 +77,7 @@ http://nashe2.hostingradio.ru/rock-128.mp3
 #EXTINF:-1,Studio 21
 http://icecast-studio21.cdnvideo.ru/S21_2
 #EXTINF:-1,Авторадио
-http://ic3.101.ru:8000/v3_1
+http://ic4.101.ru:8000/stream/air/aac/64/100
 #EXTINF:-1,Вести FM (64kb)
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1,Вести FM (192kb)
@@ -91,12 +98,12 @@ http://ep64.streamr.ru/
 http://ep128.streamr.ru/
 #EXTINF:-1,Европа Плюс (256kb)
 http://ep256.streamr.ru/
+#EXTINF:-1,Детский Хит
+http://deti.volna.top/Deti
 #EXTINF:-1,Детское радио
-http://ic3.101.ru:8000/v14_1
-#EXTINF:-1,Кекс FM (64kb)
-http://keksspb64.streamr.ru/
-#EXTINF:-1,Кекс FM (128kb)
-http://keksspb128.streamr.ru/
+http://ic4.101.ru:8000/stream/air/aac/64/199
+#EXTINF:-1,Кекс FM
+https://hls-01-keks.emgsound.ru/7/96/playlist.m3u8
 #EXTINF:-1,КоммерсантъFM (32kb)
 http://kommersant7732.streamr.ru/
 #EXTINF:-1,КоммерсантъFM (64kb)
@@ -110,9 +117,9 @@ http://kpradio.hostingradio.ru:8000/russia.radiokp64.mp3
 #EXTINF:-1,Комсомольская правда (128kb)
 http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
 #EXTINF:-1,Лёгкое радио
-http://lightradio.slamfm.ru:8000
+http://radio.slamfm.ru:8000/light
 #EXTINF:-1,Мегаполис FM
-http://109.239.129.43:8010/megapolis-48.aac
+http://fmplay.stream:8010/megapolis-48.aac
 #EXTINF:-1,Милицейская волна
 http://radiomv.hostingradio.ru/radiomv128.mp3
 #EXTINF:-1,НАШЕ Радио (64kb)
@@ -140,7 +147,7 @@ https://hls-01-radio7-happiness.emgsound.ru/10/128/playlist.m3u8
 #EXTINF:-1,Радио 7 на семи холмах (Наедине с музыкой)
 https://hls-01-radio7-alone.emgsound.ru/16/playlist.m3u8
 #EXTINF:-1,Радио ENERGY
-http://ic3.101.ru:8000/v1_1
+http://ic6.101.ru:8000/stream/air/aac/64/99
 #EXTINF:-1,Радио Classic
 http://cfm.jazzandclassic.ru:14536/rcstream.mp3
 #EXTINF:-1,Радио Classic (Gold)
@@ -154,11 +161,9 @@ http://cfm.jazzandclassic.ru:14536/pcstream.mp3
 #EXTINF:-1,Радио Jazz
 http://jazz128.streamr.ru/
 #EXTINF:-1,Радио Romantika
-http://ic3.101.ru:8000/v4_1
-#EXTINF:-1,Радио Sputnik (64kb)
-http://online.sputnikfm.ru:8000/sputnik
-#EXTINF:-1,Радио Sputnik (128kb)
-http://online.sputnikfm.ru:8000/sputnik_mp3
+http://ic6.101.ru:8000/stream/air/aac/64/101
+#EXTINF:-1,Радио Sputnik
+http://icecast-ruvr.cdnvideo.ru/rian.voicerus
 #EXTINF:-1,Радио Ваня
 https://icecast-radiovanya.cdnvideo.ru/radiovanya
 #EXTINF:-1,Радио Ваня (СПб)
@@ -182,7 +187,7 @@ http://stream.radiozvezda.ru:8088/zvezda_96
 #EXTINF:-1,Радио Звезда (128kb)
 http://stream.radiozvezda.ru:8088/zvezda_128
 #EXTINF:-1,Радио Зенит
-http://ic3.101.ru:8000/v15_1
+http://ic6.101.ru:8000/stream/trust/mp3/256/269
 #EXTINF:-1,Радио для двоих
 https://icecast-radiofortwo.cdnvideo.ru/radiofortwo
 #EXTINF:-1,Радио Культура
