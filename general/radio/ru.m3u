@@ -88,6 +88,8 @@ http://video.govoritmoskva.ru:8880/ru32.mp3
 http://video.govoritmoskva.ru:8880/ru64.mp3
 #EXTINF:-1,Говорит Москва (96kb)
 http://govoritmoskva.ru/radio/rufm.mp3
+#EXTINF:-1,Джаз Филармоник Радио
+http://broad.jazz-hall.ru:8000/jphradio.mp3
 #EXTINF:-1,Дорожное Радио
 http://dor2server.streamr.ru:8000/dor_64_no
 #EXTINF:-1,Дорожное Радио (Ностальгия)
