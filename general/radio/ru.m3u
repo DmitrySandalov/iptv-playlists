@@ -198,6 +198,8 @@ http://stream.radiozvezda.ru:8088/zvezda_128
 http://ic6.101.ru:8000/stream/trust/mp3/256/269
 #EXTINF:-1,Радио для двоих
 https://icecast-radiofortwo.cdnvideo.ru/radiofortwo
+#EXTINF:-1,Радио Книга
+http://bookradio.hostingradio.ru:8069/fm
 #EXTINF:-1,Радио Культура
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
 #EXTINF:-1,Радио Маяк
