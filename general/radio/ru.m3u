@@ -118,8 +118,12 @@ http://deti.volna.top/Deti
 http://pub0102.101.ru:8000/stream/air/aac/64/199
 #EXTINF:-1,ЖАРА FM
 https://hls01.zharafm.ru/hls/live.m3u8
-#EXTINF:-1,Карнавал
-https://radiokarnaval.ru/radiokarnaval.m3u
+#EXTINF:-1,Карнавал (24 kbps aacplus)
+https://online.radiokarnaval.ru/karnaval_aacplus
+#EXTINF:-1,Карнавал (48 kbps mp3)
+https://online.radiokarnaval.ru/karnaval48
+#EXTINF:-1,Карнавал (128 kbps mp3)
+https://online.radiokarnaval.ru/karnaval
 #EXTINF:-1,Кекс FM
 https://hls-01-keks.emgsound.ru/7/96/playlist.m3u8
 #EXTINF:-1,КоммерсантъFM (32kb)
