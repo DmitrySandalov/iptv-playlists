@@ -7,6 +7,8 @@ http://ic7.101.ru:8000/stream/trust/mp3/128/24
 http://nashe2.hostingradio.ru/best-128.mp3
 #EXTINF:-1,Business FM
 http://bfm.hostingradio.ru:8004/fm
+#EXTINF:-1,Captial FM
+http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
 #EXTINF:-1,Comedy Radio
 http://ic7.101.ru:8000/stream/air/aac/64/202
 #EXTINF:-1,Chocolate Radio
@@ -45,6 +47,8 @@ http://212.116.112.147:8000/light_stream256.mp3
 http://kids-hits.ru/kidshits_mp3_192.m3u
 #EXTINF:-1,Kids Hits (Junior)
 http://kids-hits.ru/kids-hits-junior.m3u
+#EXTINF:-1,Like FM
+http://pub0201.101.ru:8000/stream/air/aac/64/219
 #EXTINF:-1,Love Radio
 # http://stream.loveradio.ru/12_love_24?type=.aac&UID=1A479C57ACD09EEE3F2CBC9845C7643B
 https://air2.volna.top/LoveRadio-MSK
@@ -74,6 +78,8 @@ http://101.ru/api/channel/getServers/263/channel/MP3/128/dataFormat/mobile
 https://online.rockarsenal.ru/rockarsenal_aacplus
 #EXTINF:-1,Rock FM
 http://nashe2.hostingradio.ru/rock-128.mp3
+#EXTINF:-1,Romantika
+https://r2.101.ru/hls/h101.m3u8
 #EXTINF:-1,Studio 21
 http://icecast-studio21.cdnvideo.ru/S21_2
 #EXTINF:-1,Авторадио
@@ -110,6 +116,10 @@ http://ep256.streamr.ru/
 http://deti.volna.top/Deti
 #EXTINF:-1,Детское радио
 http://pub0102.101.ru:8000/stream/air/aac/64/199
+#EXTINF:-1,ЖАРА FM
+https://hls01.zharafm.ru/hls/live.m3u8
+#EXTINF:-1,Карнавал
+https://radiokarnaval.ru/radiokarnaval.m3u
 #EXTINF:-1,Кекс FM
 https://hls-01-keks.emgsound.ru/7/96/playlist.m3u8
 #EXTINF:-1,КоммерсантъFM (32kb)
@@ -130,6 +140,8 @@ http://radio.slamfm.ru:8000/light
 http://fmplay.stream:8010/megapolis-48.aac
 #EXTINF:-1,Милицейская волна
 http://radiomv.hostingradio.ru/radiomv128.mp3
+#EXTINF:-1,Москва FM
+https://icecast-vgtrk.cdnvideo.ru/moscowfm128
 #EXTINF:-1,НАШЕ Радио (64kb)
 http://nashe64.streamr.ru
 #EXTINF:-1,НАШЕ Радио (128kb)
@@ -268,6 +280,8 @@ https://rusradio.hostingradio.ru/rusradio96.aacp
 http://213.59.4.27:8000/silver128.mp3
 #EXTINF:-1,Такси FM
 http://stream2.n340.com/13_taxi_24
+#EXTINF:-1,Твоя Волна
+https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
 #EXTINF:-1,Хит Фм
 https://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1,Юмор FM
