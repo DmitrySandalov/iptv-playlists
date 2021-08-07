@@ -118,6 +118,8 @@ http://deti.volna.top/Deti
 http://pub0102.101.ru:8000/stream/air/aac/64/199
 #EXTINF:-1,ЖАРА FM
 https://hls01.zharafm.ru/hls/live.m3u8
+#EXTINF:-1,Известия
+https://hls-igi.cdnvideo.ru/igi/igi1_lq/playlist.m3u8
 #EXTINF:-1,Карнавал (24 kbps aacplus)
 https://online.radiokarnaval.ru/karnaval_aacplus
 #EXTINF:-1,Карнавал (48 kbps mp3)
