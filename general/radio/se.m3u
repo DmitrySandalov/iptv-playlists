@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Bandit Rock
+https://fm02-ice.stream.khz.se/fm02_mp3
+#EXTINF:-1,Country Rocks!
+https://stream.dbmedia.se/crrMP3
+#EXTINF:-1,EKOT SÄNDER DIREKT
+https://live-cdn.sr.se/pool2/ekotsanderdirekt/ekotsanderdirekt.isml/ekotsanderdirekt.m3u8
+#EXTINF:-1,P1
+https://live-cdn.sr.se/pool2/p1/p1.isml/p1.m3u8
+#EXTINF:-1,P2
+https://live-cdn.sr.se/pool2/p2musik/p2musik.isml/p2musik.m3u8
+#EXTINF:-1,P2 SPRÅK OCH MUSIK
+https://live-cdn.sr.se/pool2/p2/p2.isml/p2.m3u8
+#EXTINF:-1,P3
+https://live-cdn.sr.se/pool1/p3/p3.isml/p3.m3u8
+#EXTINF:-1,P3 DIN GATA
+https://live-cdn.sr.se/pool3/dingata/dingata.isml/dingata.m3u8
+#EXTINF:-1,P4 PLUS
+https://live-cdn.sr.se/pool2/srextra17/srextra17.isml/srextra17.m3u8
+#EXTINF:-1,P4 STOCKHOLM
+https://live-cdn.sr.se/pool3/p4stockholm/p4stockholm.isml/p4stockholm.m3u8
+#EXTINF:-1,P6
+https://live-cdn.sr.se/pool2/srinternational/srinternational.isml/srinternational.m3u8
+#EXTINF:-1,RADIOAPANS KNATTEKANAL
+https://live-cdn.sr.se/pool1/knattekanalen/knattekanalen.isml/knattekanalen.m3u8
+#EXTINF:-1,Rix FM
+https://fm01-ice.stream.khz.se/fm01_mp3
+#EXTINF:-1,Rockklassiker
+https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp
+#EXTINF:-1,SR SÁPMI
+https://live-cdn.sr.se/pool1/srsapmi/srsapmi.isml/srsapmi.m3u8
+#EXTINF:-1,SVERIGES RADIO FINSKA
+https://live-cdn.sr.se/pool2/sisuradio/sisuradio.isml/sisuradio.m3u8
