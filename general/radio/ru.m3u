@@ -31,18 +31,6 @@ https://dfm-disc90.hostingradio.ru/disc9096.aacp
 https://dfm-spoknochi.hostingradio.ru/spoknochi96.aacp
 #EXTINF:-1,Heart FM
 http://gtrk22.ru:8000/HFMhigh
-#EXTINF:-1,Imagine Radio (64kb)
-http://212.116.112.147:8000/full_stream64.mp3
-#EXTINF:-1,Imagine Radio (128kb)
-http://212.116.112.147:8000/full_stream128.mp3
-#EXTINF:-1,Imagine Radio (256kb)
-http://212.116.112.147:8000/full_stream256.mp3
-#EXTINF:-1,Imagine Radio Classic rock (64kb)
-http://212.116.112.147:8000/light_stream64.mp3
-#EXTINF:-1,Imagine Radio Classic rock (128kb)
-http://212.116.112.147:8000/light_stream128.mp3
-#EXTINF:-1,Imagine Radio Classic rock (256kb)
-http://212.116.112.147:8000/light_stream256.mp3
 #EXTINF:-1,Kids Hits
 http://kids-hits.ru/kidshits_mp3_192.m3u
 #EXTINF:-1,Kids Hits (Junior)
@@ -207,11 +195,11 @@ http://radiovera128.streamr.ru/
 #EXTINF:-1,Радио Дача
 http://stream.radiodacha.ru:9000/14_dacha_24
 #EXTINF:-1,Радио Звезда (64kb)
-http://stream.radiozvezda.ru:8088/zvezda_64
+https://zvezdafm.hostingradio.ru/zvezdafm64.aacp
 #EXTINF:-1,Радио Звезда (96kb)
-http://stream.radiozvezda.ru:8088/zvezda_96
+https://zvezdafm.hostingradio.ru/zvezdafm96.aacp
 #EXTINF:-1,Радио Звезда (128kb)
-http://stream.radiozvezda.ru:8088/zvezda_128
+https://zvezdafm.hostingradio.ru/zvezdafm128.mp3
 #EXTINF:-1,Радио Зенит
 http://ic6.101.ru:8000/stream/trust/mp3/256/269
 #EXTINF:-1,Радио для двоих
@@ -249,7 +237,7 @@ https://icecast-radioclassica.cdnvideo.ru/radioclassica
 #EXTINF:-1,Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1,Радио Рекорд
-http://air.radiorecord.ru:8101/rr_320
+https://hls-01-radiorecord.hostingradio.ru/record/96/playlist.m3u8
 #EXTINF:-1,Радио Свобода
 https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04
 #EXTINF:-1,Радио Теос
@@ -259,7 +247,7 @@ http://chanson.hostingradio.ru:8041/chanson64.mp3
 #EXTINF:-1,Радио Шансон (128kb)
 http://chanson.hostingradio.ru:8041/chanson128.mp3
 #EXTINF:-1,Радио Эрмитаж
-http://91.190.127.185:8000/live_test
+http://hermitage.hostingradio.ru/hermitage128.mp3
 #EXTINF:-1,Радио Юность (32kb)
 http://icecast-vgtrk.cdnvideo.ru/unost_aac_32kbps
 #EXTINF:-1,Радио Юность (64kb)
@@ -291,10 +279,10 @@ https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
 #EXTINF:-1,Хит Фм
 https://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1,Юмор FM
-http://ic7.101.ru:8000/a102
+https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_163
 #EXTINF:-1,Эльдорадио (64kb)
 http://eldoradio64.streamr.ru/
 #EXTINF:-1,Эльдорадио (128kb)
 http://eldoradio128.streamr.ru/
 #EXTINF:-1,Эхо Москвы
-http://ice912.echo.msk.ru:9120/24.aac
+https://i1.echofm.online:8443/stream
