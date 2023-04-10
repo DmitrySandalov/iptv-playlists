@@ -50,6 +50,12 @@ https://depechemode.hostingradio.ru/depechemode96.aacp
 https://maximum90.hostingradio.ru/maximum9096.aacp
 #EXTINF:-1,Maximum Rock Hits
 https://rockhits.hostingradio.ru/rockhits96.aacp
+#EXTINF:-1,Moto Radio Online (320kb)
+https://stream.motoradio.online/high-mp3
+#EXTINF:-1,Moto Radio Online (24aac)
+https://stream.motoradio.online/low-aac
+#EXTINF:-1,Moto Radio Online (Music Only)
+https://stream.motoradio.online/lite-mp3
 #EXTINF:-1,Relax FM
 http://ic7.101.ru:8000/stream/air/aac/64/200
 #EXTINF:-1,Relax FM (Gold)
