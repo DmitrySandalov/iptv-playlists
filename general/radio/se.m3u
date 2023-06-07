@@ -49,6 +49,8 @@ https://live-cdn.sr.se/pool1/p3/p3.isml/p3.m3u8
 https://live-cdn.sr.se/pool3/dingata/dingata.isml/dingata.m3u8
 #EXTINF:-1,P4 Plus
 https://live-cdn.sr.se/pool2/srextra17/srextra17.isml/srextra17.m3u8
+#EXTINF:-1,P4 Malmöhus
+https://live-cdn.sr.se/pool2/p4malmo/p4malmo.isml/p4malmo.m3u8
 #EXTINF:-1,P4 STOCKHOLM
 https://live-cdn.sr.se/pool3/p4stockholm/p4stockholm.isml/p4stockholm.m3u8
 #EXTINF:-1,P6
